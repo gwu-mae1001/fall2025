@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Kartik Bulusu">
-<meta name="dcterms.date" content="2024-11-07">
+<meta name="dcterms.date" content="2025-09-06">
 
-<title>Workshop for IEEE NoVA Section and the IEEE Computer Society (Fall2024) - RealVNC Installation Guide for Windows</title>
+<title>RealVNC Installation Guide for Windows – MAE 1001 [Fall 2025]</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,17 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./thingspeak.html" rel="next">
-<link href="./realvnc-mac.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5faee2d95e36afb1eff06a28e8ebc364.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -81,13 +79,15 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./install-editor.html">Getting Started (Prerequisites)</a></li><li class="breadcrumb-item"><a href="./realvnc-mac.html">Real VNC® Viewer</a></li><li class="breadcrumb-item"><a href="./realvnc-windows.html">Windows</a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">
+      MAE 1001 [Fall 2025]
+      </li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -99,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Workshop for IEEE NoVA Section and the IEEE Computer Society (Fall2024)</a> 
+      <a href="./">MAE 1001 [Fall 2025]</a> 
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -118,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./guidelines.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Workshop Guidelines</span></a>
+ <span class="menu-text">Course Policies</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -127,10 +127,27 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Learning Objectives</span></a>
   </div>
 </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Getting Started</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./install-editor.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Consolidated installation instructions</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./agenda.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Agenda</span></a>
+ <span class="menu-text">Schedule</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -139,75 +156,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Instructor</span></a>
   </div>
 </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
- <span class="menu-text">Getting Started (Prerequisites)</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./install-editor.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Installations on your personal machine</span></a>
-  </div>
-</li>
-          <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
- <span class="menu-text">Real VNC® Viewer</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./realvnc-mac.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Mac</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./realvnc-windows.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Windows</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./thingspeak.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">ThingSpeak</span></a>
-  </div>
-</li>
-          <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
- <span class="menu-text">Connecting your laptop to the Raspberry Pi</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth2 ">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./realvnc-mac-connect.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Mac</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./realvnc-windows-connect.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Windows</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-      </ul>
-  </li>
     </ul>
     </div>
 </nav>
@@ -233,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./install-editor.html">Getting Started (Prerequisites)</a></li><li class="breadcrumb-item"><a href="./realvnc-mac.html">Real VNC® Viewer</a></li><li class="breadcrumb-item"><a href="./realvnc-windows.html">Windows</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">RealVNC Installation Guide for Windows</h1>
 </div>
@@ -252,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">November 7, 2024</p>
+      <p class="date">September 6, 2025</p>
     </div>
   </div>
   
@@ -286,8 +234,8 @@ Important
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>Referencing the content in this workshop:</strong></p>
-<p>Bulusu, Kartik V. (2024, October 12). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University.</p>
+<p><strong>Referencing the content in this webpage:</strong></p>
+<p>Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.</p>
 </div>
 </div>
 <!-- # RealVNC Installation Guide for Windows -->
@@ -308,20 +256,20 @@ Open your web browser and go to the RealVNC website at [https://www.realvnc.com/
 <section id="installation-steps" class="level2">
 <h2 class="anchored" data-anchor-id="installation-steps">Installation Steps</h2>
 <section id="download-the-installation-file-here" class="level3">
-<h3 class="anchored" data-anchor-id="download-the-installation-file-here">0. Download the installation file <strong><a href="./downloads/VNC-Viewer-7.12.1-Windows.exe">here</a></strong></h3>
+<h3 class="anchored" data-anchor-id="download-the-installation-file-here">0. Download the installation file <strong><a href="./Downloads/VNC-Viewer-7.12.1-Windows.exe">here</a></strong></h3>
 </section>
 <section id="install-vnc-viewer" class="level3">
 <h3 class="anchored" data-anchor-id="install-vnc-viewer">1. Install VNC Viewer</h3>
 <p>Locate the downloaded installer file (e.g., <code>VNC-Viewer-*.exe</code>) and double-click it to run the installer. Once the installation is complete, click “Finish” to exit the installer.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_1.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_1.png" class="img-fluid figure-img"></p>
 <figcaption>Open Installer</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/realvnc-windows/screenshot-2.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/realvnc-windows/screenshot-2.png" class="img-fluid figure-img"></p>
 <figcaption>Run Installer</figcaption>
 </figure>
 </div>
@@ -331,37 +279,37 @@ Open your web browser and go to the RealVNC website at [https://www.realvnc.com/
 <p>The installation wizard will guide you through the installation process. Click on “Customize installation” and “Deselect RealVNC Server” and hit “Install”.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_2.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_2.png" class="img-fluid figure-img"></p>
 <figcaption>Select English as the peferred language</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_3.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_3.png" class="img-fluid figure-img"></p>
 <figcaption>Click on Next</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_4.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_4.png" class="img-fluid figure-img"></p>
 <figcaption>Accept terms and conditions, and click Next.</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_5.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_5.png" class="img-fluid figure-img"></p>
 <figcaption>Select installation location</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_6.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_6.png" class="img-fluid figure-img"></p>
 <figcaption>Click on Install</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_7.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_7.png" class="img-fluid figure-img"></p>
 <figcaption>Finish installation</figcaption>
 </figure>
 </div>
@@ -373,20 +321,20 @@ Open your web browser and go to the RealVNC website at [https://www.realvnc.com/
 <p>Once the installation is complete, you can launch RealVNC Viewer from Start.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_8.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_8.png" class="img-fluid figure-img"></p>
 <figcaption>Open RealVNC</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_9.png" class="img-fluid figure-img"></p>
+<p><img src="screenshots/real_vnc_winOS_2024/step_9.png" class="img-fluid figure-img"></p>
 <figcaption>When prompted click on “Sign in to get Started and hit cancel button</figcaption>
 </figure>
 </div>
 <p>If prompted to Log in/Sign Up hit “Cancel”, you’re <strong><u>NOT REQUIRED</u></strong> to sign up.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/screenshots/real_vnc_winOS_2024/step_10.png" class="img-fluid figure-img"></p>
+<p><img src="./screenshots/real_vnc_winOS_2024/step_10.png" class="img-fluid figure-img"></p>
 <figcaption>Hit Cancel button</figcaption>
 </figure>
 </div>
@@ -437,6 +385,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -471,7 +437,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -519,7 +489,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -745,18 +714,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="./realvnc-mac.html" class="pagination-link  aria-label=" mac"="">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Mac</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="./thingspeak.html" class="pagination-link" aria-label="ThingSpeak">
-        <span class="nav-page-text">ThingSpeak</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -764,7 +721,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>The material is sourced from <strong>Prof.&nbsp;Kartik Bulusu’s</strong> course titled, ‘Introduction to IoT and Edge computng applications’. <br> This is a Quarto website. To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.<br> Contact: <a href="mailto:bulusu@email.gwu.edu">Kartik Bulusu</a><br> © 2024 All rights reserved</p>
+<p>This is a Quarto website. To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.<br> Contact: <a href="mailto:bulusu@email.gwu.edu">Kartik Bulusu</a><br> © 2025 All rights reserved</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

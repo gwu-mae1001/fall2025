@@ -19,9 +19,9 @@ format:
 <body>
 
 :::{.callout-important}
-**Referencing the content in this workshop:**
+**Referencing the content in this webpage:**
 
-Bulusu, Kartik V. (2024, October 12). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
 # Connect the Raspberry Pi on Windows Machine

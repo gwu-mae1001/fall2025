@@ -19,9 +19,9 @@ format:
 <body>
 
 :::{.callout-important}
-**Referencing the content in this workshop:**
+**Referencing the content in this webpage:**
 
-Bulusu, Kartik V. (2024, October 12). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
 <!-- # RealVNC Installation Guide for Windows -->
@@ -43,7 +43,7 @@ Open your web browser and go to the RealVNC website at [https://www.realvnc.com/
 
 ## Installation Steps
 
-### 0. Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
+### 0. Download the installation file **[here](/Downloads/VNC-Viewer-7.12.1-Windows.exe)**
 
 
 ### 1. Install VNC Viewer
@@ -51,25 +51,25 @@ Open your web browser and go to the RealVNC website at [https://www.realvnc.com/
 Locate the downloaded installer file (e.g., `VNC-Viewer-*.exe`) and double-click it to run the installer.
 Once the installation is complete, click "Finish" to exit the installer.
 
-![Open Installer](images/screenshots/real_vnc_winOS_2024/step_1.png)
+![Open Installer](/screenshots/real_vnc_winOS_2024/step_1.png)
 
-![Run Installer](images/screenshots/realvnc-windows/screenshot-2.png)
+![Run Installer](/screenshots/realvnc-windows/screenshot-2.png)
 
 ### 3. Follow Installation Wizard
 
 The installation wizard will guide you through the installation process. Click on "Customize installation" and "Deselect RealVNC Server" and hit "Install".
 
-![Select English as the peferred language](images/screenshots/real_vnc_winOS_2024/step_2.png)
+![Select English as the peferred language](/screenshots/real_vnc_winOS_2024/step_2.png)
 
-![Click on Next](images/screenshots/real_vnc_winOS_2024/step_3.png)
+![Click on Next](/screenshots/real_vnc_winOS_2024/step_3.png)
 
-![Accept terms and conditions, and click Next.](images/screenshots/real_vnc_winOS_2024/step_4.png)
+![Accept terms and conditions, and click Next.](/screenshots/real_vnc_winOS_2024/step_4.png)
 
-![Select installation location](images/screenshots/real_vnc_winOS_2024/step_5.png)
+![Select installation location](/screenshots/real_vnc_winOS_2024/step_5.png)
 
-![Click on Install](images/screenshots/real_vnc_winOS_2024/step_6.png)
+![Click on Install](/screenshots/real_vnc_winOS_2024/step_6.png)
 
-![Finish installation](images/screenshots/real_vnc_winOS_2024/step_7.png)
+![Finish installation](/screenshots/real_vnc_winOS_2024/step_7.png)
 
 <!-- ![Customize Installation](images/screenshots/realvnc-windows/screenshot-3.png) -->
 
@@ -80,13 +80,13 @@ The installation wizard will guide you through the installation process. Click o
 
 Once the installation is complete, you can launch RealVNC Viewer from Start. 
 
-![Open RealVNC](images/screenshots/real_vnc_winOS_2024/step_8.png)
+![Open RealVNC](/screenshots/real_vnc_winOS_2024/step_8.png)
 
-![When prompted click on "Sign in to get Started and hit cancel button](images/screenshots/real_vnc_winOS_2024/step_9.png)
+![When prompted click on "Sign in to get Started and hit cancel button](screenshots/real_vnc_winOS_2024/step_9.png)
 
 If prompted to Log in/Sign Up hit "Cancel", you're **<u>NOT REQUIRED</u>** to sign up.
 
-![Hit Cancel button](images/screenshots/real_vnc_winOS_2024/step_10.png)
+![Hit Cancel button](/screenshots/real_vnc_winOS_2024/step_10.png)
 
 
 <!-- ![Don't Sign up](images/screenshots/realvnc-windows/screenshot-6.png) -->

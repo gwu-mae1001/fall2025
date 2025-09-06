@@ -6,17 +6,17 @@ format:
     code-copy: false
 ---
 :::{.callout-important}
-**Referencing the content in this workshop:**
+**Referencing the content in this webpage:**
 
-Bulusu, Kartik V. (2025, October 10). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
-:::{.callout-important}
+<!-- :::{.callout-important}
 **Registartion:**
 [Registration link](https://events.vtools.ieee.org/event/register/437187)
-:::
+::: -->
 
-## Workshop abstract
+## Welcome to MAE 1001
 <html>
 <head>
     <style>
@@ -63,34 +63,65 @@ Bulusu, Kartik V. (2025, October 10). Connect, Compute and Communicate! Practica
 </head>
 <body>
 
-<div class="row">
-  <div class="column">
-The Internet of Things (IoT) is perceived as a collection of smart, connected devices with the ability to send and receive data; “internet” encapsulates connectivity and “things” are devices (electronic or mechanical) that can be adapted toward connectivity. There is an alternative perception of IoT, as a design methodology that facilitates interoperability and connectivity of physical systems. Edge computing is a strategy for localized analysis of data, ahead in the pipeline of powerful data center- or cloud-based post-processing.
- </div>
 
- <div class="column">
+Welcome to the world of mechanical engineering—a field where imagination meets practical problem-solving to improve the way people live and interact with technology. 
+
+The course is designed to inspire curiosity and develop critical thinking, giving you opportunities to apply mathematics and science to create solutions that matter. 
+
+Whether your interests lie in building renewable energy systems, designing new mechanical devices, or simply understanding how things work, this course will help you build a solid foundation for your future studies and career in engineering. 
+
+By the end of the semester, you will appreciate both the exciting possibilities and the responsibilities that come with being a mechanical engineer
+
  <!-- "float: left;  -->
- <img src="/images/noun-iot-2623360_copy.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
- <p><font size="1">IoT by Alla Zaleuska from <a href="https://thenounproject.com/browse/icons/term/iot/" target="_blank" title="IoT Icons">Noun Project</a></font></p>
- </div>
-</div>
+ <img src="/images/noun-machine-to-machine-7982019.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <!-- <p><font size="1">IoT by Alla Zaleuska from <a href="https://thenounproject.com/browse/icons/term/iot/" target="_blank" title="IoT Icons">Noun Project</a></font></p> -->
+
+  <p><font size="1">machine to machine by miftakhudin from <a href="https://thenounproject.com/browse/icons/term/machine-to-machine/" target="_blank" title="machine to machine Icons">Noun Project</a> (CC BY 3.0)</font></p>
+
 
 <br>
-This workshop provides an introductory-level exposure of the IoT framework and expands it with edge computing ideology via practical and hands-on exposure. The attendees will be exposed to the IoT framework using sensors, IoT automation and connectivity in a “microLab” environment that includes the Raspberry Pi (single-board computer) and Python programming language. 
 
-<strong>The attendees will be expected to bring their own laptops with the following requirements: </strong>
 
-- Personal machines or laptops (only) with: 
-    - Mac OS 12+ or Windows 10+ operating system
-    - One USB A or USB C port that is available for use during the workshop
-    - WiFi connectivity
-    - A free version of RealVNC&reg; Viewer software downloaded and installed (See [instructions](install-editor.qmd) for details). 
-    - Chrome web browser downloaded and installed 
+As first-year mechanical engineering students, you are about to embark on a dynamic journey that introduces the essentials of mechanics, materials, energy, and design. 
 
-<strong>The attendees will be expected to work </strong>
+- Throughout this course, you will learn not only by studying foundational principles, but also by working in teams on hands-on projects that mirror real engineering challenges faced in industry and research. 
 
-- in small groups using a limited number of hardware components and WiFi connectivity that will be provided.
+- You will be exposed to designing, 3D priting and assembling with sensors and automation in unique “microLab” environment that includes the Raspberry Pi (single-board computer) and Python programming language. 
 
+## General information
+The course we will meet in-person for both lectures and laboratories each week. The course will follow university guidelines if a virtual meeting is required.
+
+  - Most of our communication to you will be by Blackboard messaging and announcements.
+  - Start by reading the [**About**](index.qmd) section. 
+  - Review the [**Course policies**](guidelines.qmd) and get familiar with the [**Instruction Team**](instructor.qmd).
+    <!-- - These are the current [**office hours**](about.qmd#office-hours) being made available.  -->
+  - They will be updated as the semester progresses.
+
+## Student's main method of communication during the semester**
+Our main method of communication is Ed, an online discussion board for questions and answers related to the course, whether technical or logistical in nature.
+
+  - [**Join Ed here**](https://edstem.org/us/join/YxYM2t)
+  - Do not post your source code to Ed. 
+  - Think through your questions. Post a general concept of the programming concept. 
+  - Your questions on Ed will be addressed within 24 hours.
+  - **The students will be expected to work in:**
+    - small groups using a limited number of hardware components and WiFi connectivity that will be provided.
+
+
+## Course schedule 
+The [**Schedule**](schedule.qmd) page outlines the weekly-schedule and what your deliverables are. It is YOUR job to keep to the schedule and submit work accordingly.
+  
+  - The first meeting of the course will be on **Friday** _(10/17/2025)_ [See [**Schedule**](schedule.qmd)]
+
+
+## Laptop and personal compute machine requirements
+The attendees will be expected to bring their own laptops with the following requirements: </strong>
+
+  - Mac OS 12+ or Windows 10+ operating system
+  - One USB A or USB C port that is available for use during the workshop
+  - WiFi connectivity
+  - See [instructions](install-editor.qmd) for much needed software installations. 
+  - **We unfortuantely, cannot support for Chrome OS- or Linux OS-based laptops or iPads and other digital tablets.**
 
 <!-- ::: {.callout-note}
 Note that there are five types of callouts, including:
@@ -98,16 +129,16 @@ Note that there are five types of callouts, including:
 ::: -->
 
 ::: {.callout-tip}
-## Time & Location of the Workshop
-**Thomas Jefferson Meeting Room 1** 
+## Time & Location of MAE 1001 [Fall 2025]
+**MON 111** 
 
-- [Thomas Jefferson Library](https://www.fairfaxcounty.gov/library/branches/thomas-jefferson){target="_blank"}
-- 7415 Arlington Boulevard 
-- Falls Church, VA 22042
+- [Monroe Hall 111](https://it.gwu.edu/classroom-search/monroe-hall-111){target="_blank"}
+- 2115 G St NW
+- Washington DC 20052
 
 **Meeting time**
 
-- 9:00 AM – 12:00 Noon
+- Fridays, 1:30 PM – 4:00 PM
 :::
 
 <!-- ::: {.callout-caution collapse="true"}
