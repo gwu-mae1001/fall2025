@@ -1,0 +1,135 @@
+---
+title: MAE 1001 [Fall 2025]
+subtitle: Introduction to Mechanical and Aerospace Engineering
+format:
+  html:
+    code-copy: false
+---
+:::{.callout-important}
+**Referencing the content in this workshop:**
+
+Bulusu, Kartik V. (2025, October 10). Connect, Compute and Communicate! Practical introduction to a DIY internet of things system. [Workshop for the IEEE Northern Virigina Section and IEEE Computer Society]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+:::
+
+:::{.callout-important}
+**Registartion:**
+[Registration link](https://events.vtools.ieee.org/event/register/437187)
+:::
+
+## Workshop abstract
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+The Internet of Things (IoT) is perceived as a collection of smart, connected devices with the ability to send and receive data; “internet” encapsulates connectivity and “things” are devices (electronic or mechanical) that can be adapted toward connectivity. There is an alternative perception of IoT, as a design methodology that facilitates interoperability and connectivity of physical systems. Edge computing is a strategy for localized analysis of data, ahead in the pipeline of powerful data center- or cloud-based post-processing.
+ </div>
+
+ <div class="column">
+ <!-- "float: left;  -->
+ <img src="/images/noun-iot-2623360_copy.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <p><font size="1">IoT by Alla Zaleuska from <a href="https://thenounproject.com/browse/icons/term/iot/" target="_blank" title="IoT Icons">Noun Project</a></font></p>
+ </div>
+</div>
+
+<br>
+This workshop provides an introductory-level exposure of the IoT framework and expands it with edge computing ideology via practical and hands-on exposure. The attendees will be exposed to the IoT framework using sensors, IoT automation and connectivity in a “microLab” environment that includes the Raspberry Pi (single-board computer) and Python programming language. 
+
+<strong>The attendees will be expected to bring their own laptops with the following requirements: </strong>
+
+- Personal machines or laptops (only) with: 
+    - Mac OS 12+ or Windows 10+ operating system
+    - One USB A or USB C port that is available for use during the workshop
+    - WiFi connectivity
+    - A free version of RealVNC&reg; Viewer software downloaded and installed (See [instructions](install-editor.qmd) for details). 
+    - Chrome web browser downloaded and installed 
+
+<strong>The attendees will be expected to work </strong>
+
+- in small groups using a limited number of hardware components and WiFi connectivity that will be provided.
+
+
+<!-- ::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+::: -->
+
+::: {.callout-tip}
+## Time & Location of the Workshop
+**Thomas Jefferson Meeting Room 1** 
+
+- [Thomas Jefferson Library](https://www.fairfaxcounty.gov/library/branches/thomas-jefferson){target="_blank"}
+- 7415 Arlington Boulevard 
+- Falls Church, VA 22042
+
+**Meeting time**
+
+- 9:00 AM – 12:00 Noon
+:::
+
+<!-- ::: {.callout-caution collapse="true"}
+## Expand To Learn About Collapse
+
+This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default.
+:::
+:::{.callout-note}
+## Time & Location of the Workshop
+**Thomas Jefferson Meeting Room 1**
+[Thomas Jefferson Library](https://www.fairfaxcounty.gov/library/branches/thomas-jefferson) 
+7415 Arlington Boulevard 
+Falls Church, VA 22042
+
+**Meeting time**
+9:00 AM – 12:00 Noon
+::: -->
+
+<!-- :::{.callout-note}
+Lecture times are from 
+::: -->
+
+<!-- This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>. -->

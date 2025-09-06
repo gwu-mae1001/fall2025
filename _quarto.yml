@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Workshop for IEEE NoVA Section and the IEEE Computer Society (Fall2024)"
+  page-footer: "The material is sourced from **Prof. Kartik Bulusu's** course titled, 'Introduction to IoT and Edge computng applications'. <br> This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br> Contact: [Kartik Bulusu](mailto:bulusu@email.gwu.edu)<br> &copy; 2024 All rights reserved"
+  search: true
+  page-navigation: true
+  bread-crumbs: true
+  sidebar:
+    style: floating
+    # collapse-level: 2
+    contents: 
+      - href: index.qmd
+        text: Home
+      - href: guidelines.qmd
+        text: Workshop Guidelines        
+      - href: objectives.qmd
+        text: Learning Objectives       
+      - href: agenda.qmd
+        text: Agenda 
+      - href: instructor.qmd
+        text: Instructor
+      - section: "Getting Started (Prerequisites)"
+        contents: 
+          - href: install-editor.qmd
+            text: Installations on your personal machine
+          - section: "Real VNC&reg; Viewer"
+            contents: 
+              - href: realvnc-mac.qmd
+                text: Mac
+              - href: realvnc-windows.qmd
+                text: Windows   
+          - href: thingspeak.qmd
+            text: ThingSpeak
+          - section: "Connecting your laptop to the Raspberry Pi"
+            contents: 
+              - href: realvnc-mac-connect.qmd
+                text: Mac
+              - href: realvnc-windows-connect.qmd
+                text: Windows                       
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    author: Kartik Bulusu
+    date: now
+    # monofont: "DejaVu Sans Mono"
+    # mainfont: "Roboto"
+
+
+
