@@ -27,14 +27,16 @@ website:
     contents: 
       - href: index.qmd
         text: Home
+      - section: "Getting Started"
+        contents: 
+          - href: getting_started.qmd
+            text: MUST READ Preliminaries
+          - href: install-editor.qmd
+            text: MUST DO Software Installations        
       - href: guidelines.qmd
         text: Course Policies        
       - href: objectives.qmd
         text: Learning Objectives  
-      - section: "Getting Started"
-        contents: 
-          - href: install-editor.qmd
-            text: Consolidated installation instructions             
       - href: agenda.qmd
         text: Schedule
       # - href: standup.qmd
@@ -62,7 +64,7 @@ website:
 
 format:
   html:
-    theme: Yeti
+    theme: cosmo
     css: styles.css
     toc: true
     author: Kartik Bulusu

@@ -41,76 +41,76 @@ Before you begin, ensure you have the following:
 ### 1. Visit Thonny's Official Website
 Go to [https://www.thonny.org/](https://www.thonny.org/) to access Thonny's official download page.
 
-![Visit Official Website](/images/thonny-windows/step_1.png)
+![Visit Official Website](/thonny-windows/step_1.png)
 
 ### 2. Select the Windows Download Option
 Hover your mouse over the "**Windows**" option in the "_Download version…_" box and click to initiate the download.
 
-![Download Thonny](/images/thonny-windows/step_2.png)
+![Download Thonny](/thonny-windows/step_2.png)
 
 ### 3. Execute the Installer
 Locate the downloaded file, typically in your "_Downloads_" folder. Double-click the Thonny installer to run it.
 
-![Download Thonny](/images/thonny-windows/step_3.png)
+![Download Thonny](/thonny-windows/step_3.png)
 
 ### 4. Confirm Installation
 
 Click "**Next**" to proceed with the installation.
 
-![Confirm Installation](/images/thonny-windows/step_4.png)
+![Confirm Installation](/thonny-windows/step_4.png)
 
 ### 5. Agree to License Agreements
 
 Accept the license agreements by clicking "**Agree**."
 
-![License Agreement](/images/thonny-windows/step_5.png)
+![License Agreement](/thonny-windows/step_5.png)
 
 ### 6. Choose Installation Location
 
 Select a location for installation; the default option is acceptable.
 
-![Installation Location](/images/thonny-windows/step_6.png)
+![Installation Location](/thonny-windows/step_6.png)
 
 ### 7. Select Start Menu Folder
 
 Choose a start menu folder; the default option is acceptable.
 
-![Start Menu Folder](/images/thonny-windows/step_7.png)
+![Start Menu Folder](/thonny-windows/step_7.png)
 
 ### 8. Create Desktop Icon
 
 Opt to create a desktop icon for easy access. Click "_Create Desktop Icon_".
 
-![Desktop Icon](/images/thonny-windows/step_8.png)
+![Desktop Icon](/thonny-windows/step_8.png)
 
 ### 9. Initiate Installation
 
 Click "**Install**" to start the installation process.
 
-![Install Thonny](/images/thonny-windows/step_9.png)
+![Install Thonny](/thonny-windows/step_9.png)
 
 ### 10. Completion
 
 Once the installation is complete, click "**Finish**."
 
-![Installation Complete](/images/thonny-windows/step_10.png)
+![Installation Complete](/thonny-windows/step_10.png)
 
 ### 11. Optional Cleanup
 
 Consider moving the installer file to the Recycle bin if desired.
 
-![Move to Recycle bin](/images/thonny-windows/step_3.png)
+![Move to Recycle bin](/thonny-windows/step_3.png)
 
 ### 12. Launch Thonny
 
 Thonny is now installed on your computer. Open the Thonny editor by clicking on the desktop icon.
-![Launch Thonny](/images/thonny-windows/step_12.png)
+![Launch Thonny](/thonny-windows/step_12.png)
 
 ### 13. Verification
 
 Confirm the successful installation by viewing the Thonny screen window.
 
-![Verification](/images/thonny-windows/step_13.png)
+![Verification](/thonny-windows/step_13.png)
 
 ## Conclusion
 

@@ -24,29 +24,15 @@ format:
 Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
-
-
-
-
-<!-- ## Hardware and Software requirements
-<strong>The attendees will be expected to bring their own laptops with the following requirements: </strong>
-
-- Personal machines or laptops (only) with: 
-    - Mac OS 12+ or Windows 10+ operating system
-    - One USB A or USB C port that is available for use during the workshop
-    - WiFi connectivity
-    - A free version of RealVNC&reg; Viewer software downloaded and installed (See [instructions](install-editor.qmd) for details). 
-    - Chrome web browser downloaded and installed 
-
-<strong>The attendees will be expected to work </strong>
-- in small groups using a limited number of hardware components and WiFi connectivity that will be provided. -->
-
-
 ### Grading - List of what will be counted and percentages.
 <br>
 
 <img src="/images/noun-exam-3617082_copy.png" alt="exam icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br><p><font size="1">exam by pongsakorn from <a href="https://thenounproject.com/browse/icons/term/exam/" target="_blank" title="exam Icons">Noun Project</a></font></p>
 
+- **Homework** 15%
+- **Classwork** 35%
+- **Weekly Labs and Reports** 20%
+- **Final Project** 30% 
 <!-- - **Lab 0:** 10%
 - **Lab 1:** 10%
 - **Lab 2:** 10%
@@ -54,6 +40,12 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 - **Lab 4:** 10%
 - **Recitation Problems:** 30%
 - **Ethics poster/assignments:** 20% [Note: Gradiing rubric for the poster presentation will be provided to the students] -->
+
+## Grading Scale (subject to change during Fall 2025)
+
+The following grading scale will be applied at the end of the semester to calculate letter grades: 90-100: A, 84-89: A-, 78-83: B+, 72-77: B, 66-71: B-, 60-65: C+, 56-59: C, 52-55: C-, 46-51: D, 0-45: F.
+
+Grades are "rounded up" to the nearest integer.
 
 ## Grading policy
 
