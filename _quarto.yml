@@ -36,9 +36,13 @@ website:
           - href: install-editor.qmd
             text: Consolidated installation instructions             
       - href: agenda.qmd
-        text: Schedule 
+        text: Schedule
+      # - href: standup.qmd
+      #   text: Student Panelists   
+      # - href: guests.qmd
+      #   text: Guest speakers
       - href: instructor.qmd
-        text: Instructor
+        text: Instruction Team
 
           # - section: "Real VNC&reg; Viewer"
           #   contents: 

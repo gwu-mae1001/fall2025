@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Instruction Team"
 format: 
   html:
     code-copy: false
@@ -20,9 +20,9 @@ format:
 ---
 
 :::{.callout-important}
-**Referencing the content in this webpage:**
+**Referencing the content in this course:**
 
-Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+Bulusu, Kartik V. (2025). MAE 3127 Fluid Mechanics Laboratory, Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
 ## Dr. Kartik Bulusu (Instructor)
@@ -38,13 +38,13 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       
       His research interests span the areas of human health and sustainable energy with focus on mechanics of biological fluids, low-cost energy technologies and applications of wavelet transforms. His current research work on biofluid dynamics of the cardiovasculature, rheology of biological fluids and applications of wavelet transforms has been supported by NSF and the Center for Biomimetics and Bioinspired Engineering (CBBE), GWU.  
       
-      He developed a wavelet transform-based computational code (PIVlet) for the analysis of complex vortical patterns encountered in arterial blood flow. He has extensive knowledge of experimental fluid mechanics and non-invasive measurement techniques such as laser Doppler velocimetry (LDV), particle image velocimetry (PIV), schlieren imagery, magnetic resonance velocimetry (MRV) and molecular tagging velocimetry (MTV). Dr. Bulusu was recognized with the ASME Best Paper Award by the Advanced Energy Systems Division (AESD) Heat Pump Technical Committee and William and Louise Corcoron Award for contributing to the intellectual and social life of the School of Engineering and Applied Science, GWU.
+      He developed a wavelet transform-based computational code (PIVlet) for the analysis of complex vortical patterns encountered in arterial blood flow. He has extensive knowledge of experimental fluid mechanics and non-invasive measurement techniques such as laser Doppler velocimetry (LDV), particle image velocimetry (PIV), schlieren imagery, magnetic resonance velocimetry (MRV) and molecular tagging velocimetry (MTV). Dr. Bulusu was recognized with the ASME Best Paper Award by the Advanced Energy Systems Division (AESD) Heat Pump Technical Committee, William and Louise Corcoron Award for contributing to the intellectual and social life and the Bender award for teaching excellence in the School of Engineering and Applied Science, GWU.
     </td>
 
     <td width="30%">
-      <img src="images/team/bulusu.jpg" alt="instructor" style="object-fit:contain width:400px;height:400px; margin-right: 10px;" />
+      <img src="images/team/bulusu.jpg" alt="instructor" style="object-fit:contain width:400px;height:300px; margin-right: 10px;" />
       <!-- <small>Dr. Kartik Bulusu</small><br> -->
-      **Campus Address:** SEH 3640 
+      **Campus Address:** SEH 4615 
 
       **Email:** bulusu at email dot gwu dot edu
     </td>
@@ -52,31 +52,132 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 </table>
 
 
-## Rutvik Solanki (Technical Assistant)
+## ​Preethi Siva Kumar (Graduate Instructional Assistant)
 <table>
   <tr>
-    <td width="70%">
-      **Rutvik**, was a grad student from Computer Science. Rutvik began his academic journey in India, completing his undergraduate studies at the Symbiosis Institute of Technology, where he cultivated a strong interest in technology. Before starting his graduate studies at GWU, Rutvik gained valuable experience as both a Data Scientist intern and a DevOps intern at a dynamic startup. These experiences sharpened his skills and fueled his curiosity about the ever-changing tech landscape. In addition to his studies, Rutvik was a teaching assistant in Prof. Bulusu's introductory courses on Python programming language. 
-    </td>
+    <td width="60%">
+I am ​Preethi Siva Kumar, graduate student in the Department of Mechanical and Aerospace Engineering. My research focuses on computational fluid dynamics, and she is currently working with Dr. Kartik Bulusu in the Biofluid Dynamics Lab. Her work explores cardiovascular flow and the physiological effects of blood rheology.
 
-    <td width="30%"> 
-      <img src="images/team/rutvik.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+​Before beginning her graduate studies, I earned my undergraduate degree in Aeronautical Engineering and gained practical experience in aerodynamics and controls by competing in competitions like SAE Aero Design and AIAA Design/Build/Fly. I am also has experience as a software developer where she worked with JavaScript and Python.
+
+​When I am not in the lab, I enjoy visiting museums and working hard to keep her houseplants alive. I am looking for name suggestions for my new cactus, so feel free to share your ideas at my email below!
+</td>
+
+    <td width="40%">
+      <img src="images/team/preethi.jpg" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+
+      <!-- <small>Dr. Kartik Bulusu</small><br> -->
+      **Office hours and Location:** TBA 
+
+      **Email:** preethis at gwu dot edu
+
+      [**LinkedIn**](https://www.linkedin.com/in/sivakumarpreethi/)
     </td>
   </tr>
 </table> 
 
-## Boomika Karuppaiah (Technical Assistant)
+<!-- ## Swastika Bera (Graduate Teaching Assistant)
 <table>
   <tr>
-    <td width="70%">
-    **Boomika** is a Software Engineer at Monoflo International Inc., holding a Master's degree in Computer Science from George Washington University. Prior to her Master's degree, she worked as a software engineer for Samsung and HP Inc. During her time at George Washington University, she was a graduate teaching assistant for Intro to programming in Python course taught by Prof. Bulusu, where she led lab sessions to help students gain hands-on knowledge of programming in Python. She is a passionate programmer and continuously seeks to learn new technologies. 
-    </td>
+    <td width="60%">
+Swastika Bera is a Ph.D. student in the Department of Mechanical and Aerospace Engineering at The George Washington University, specializing in fluid mechanics and soft matter systems. Her research investigates the deformation, breakup, and particle tracking of extracellular polymeric substances (EPS), xanthan gum, and marine snow aggregates under laminar and turbulent flows. By combining experimental fluid dynamics, rheology, and advanced imaging, she explores how turbulence controls particle aggregation and carbon transport between the surface and mesopelagic ocean layers.
 
-    <td width="30%"> 
-      <img src="images/team/boomika-img.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+Prior to her doctoral studies, she completed her M.S. in Mechanical Engineering at South Dakota State University, where she developed corn kernel–based biocomposite films for sustainable food packaging applications. This work advanced environmentally friendly alternatives to petroleum-based plastics through the integration of natural fibers and biopolymers.
+
+Beyond research, Swastika has presented her work at the American Physical Society and the AGU Ocean Sciences meeting. She is passionate about bridging fundamental fluid mechanics with environmentally friendly polymer applications that address global sustainability challenges. Outside of academics, she enjoys cooking, exploring new places, and reading comics.
+    </td>
+    <td width="40%">
+      <img src="images/team/SwastikaBeraHeadshot.jpg" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+
+      **Office hours and Location:** TBA 
+
+      **Email:** swastika.bera at gwu dot edu
+
+      [**LinkedIn**](https://www.linkedin.com/in/swastika-bera-582aba234/)
     </td>
   </tr>
-</table> 
+</table>  -->
+
+<!-- ## Salman Niazi (Undergraduate Teaching Assistant)
+<table>
+  <tr>
+    <td width="60%">
+Salman Niazi is a senior studying Mechanical and Aerospace Engineering at The George Washington University. He currently works as an undergraduate research assistant in the Micropropulsion and Nanotechnology Laboratory, where his focus is on air-breathing plasma thrusters and advanced propulsion systems. Salman has also gained industry experience through internships in the energy industry, where he worked on HVAC design and energy systems. Salman has previously been an Undergraduate Learning Assistant for the past two years and has loved every moment of it. He enjoys supporting students in and out of the classroom, fostering collaboration, and helping them gain confidence in tackling challenging concepts. Outside of class, Salman loves biking, exploring new cafes, and discussing emerging technologies.
+    </td>
+    <td width="40%">
+      <img src="images/team/SalmanNiaziHeadShot.JPG" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+      <!-- <small>Dr. Kartik Bulusu</small><br> -->
+
+      <!-- **Office hours and Location:** TBA  -->
+
+      <!-- **Email:** salmank437 at gwmail dot gwu dot edu -->
+
+      <!-- [**LinkedIn**] TBA -->
+    <!-- </td> -->
+  <!-- </tr> -->
+<!-- </table>  -->
+
+## Olivia Falciani (Learning Assistant)
+<table>
+  <tr>
+    <td width="60%">
+I am Olivia Falciani, a senior studying mechanical engineering with a concentration in aerospace. I transferred from CCAS to SEAS in the beginning of my sophomore year. For over a year I have conducted research in the Thermo Fluids laboratory under Dr. Bardet. I have been working on the development of a solid polymer with a refractive index matched to water, which would be extremely beneficial to fluid dynamics research. For one year, I was a member of the rocket propulsion team. I am currently a member of Tau Beta Pi and president of Pi Tau Sigma at GW. I am very interested in materials science, thermodynamics, and heat transfer. I hope my experience at GW can help and encourage new mechanical engineering students, and I look forward to aiding this class.
+  </td>
+    <td width="40%">
+      <img src="images/team/GWU_Logo.png" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+      <!-- <small>Dr. Kartik Bulusu</small><br> -->
+
+      **Office hours and Location:** TBA 
+
+      **Email:** livfalciani at gwu dot edu
+
+      [**LinkedIn**](https://www.linkedin.com/in/oliviafalciani/)
+    </td>
+  </tr>
+</table>
+
+## Shota Kakiuchi (Learning Assistant)
+<table>
+  <tr>
+    <td width="60%">
+I am Shota Kakiuchi, a Senior Mechanical Engineering student at The George Washington University with a concentration in Robotics. Currently, I am an Undergraduate Research Fellow under Professor Bulusu, where I study fluid mechanics and Internet of Things applications and explore how technology and engineering intersect.
+
+I recently completed my internship at Deloitte in Cybersecurity Consulting and will be joining them full time after graduation. Alongside that, I’ve also gained industry experience as a Manufacturing Engineer Intern at Medtronic, giving me the chance to see how engineering connects to both technology and business.
+
+Thanks to my international background, bilingual skills, and experiences across both business and technology, I’ve been able to make the most of my time in Washington, D.C., a city at the center of international, public, and government relations. If I weren’t an engineer, I’d probably be pursuing international relations or another path that lets me keep building bridges between people and ideas.
+
+  </td>
+    <td width="40%">
+      <img src="images/team/GWU_Logo.png" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+      <!-- <small>Dr. Kartik Bulusu</small><br> -->
+
+      **Office hours and Location:** TBA 
+
+      **Email:** skakiuchi dot gwu dot edu
+
+      [**LinkedIn**](https://www.linkedin.com/in/shota-kakiuchi-3b05a6268/)
+    </td>
+  </tr>
+</table>
+
+## Nathan Jannsen (Learning Assistant)
+<table>
+  <tr>
+    <td width="60%">
+Nathan Jannsen is senior in Mechanical Engineering.
+  </td>
+    <td width="40%">
+      <img src="images/team/GWU_Logo.png" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+      <!-- <small>Dr. Kartik Bulusu</small><br> -->
+
+      **Office hours and Location:** TBA 
+
+      **Email:** njanssen at gwmail dot gwu dot edu
+
+      [**LinkedIn**]TBA
+    </td>
+  </tr>
+</table>
 
 <!-- 
 ### Instructor contacts

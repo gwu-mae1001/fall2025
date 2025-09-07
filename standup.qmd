@@ -1,0 +1,157 @@
+---
+title: "Student panelists"
+format: 
+  html:
+    code-copy: false
+---
+
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+:::{.callout-important}
+**Referencing the content in this webpage:**
+
+Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
+:::
+
+
+
+## Marlee Alvino
+<div id="marlee-alvino"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Marlee** is a senior majoring in computer science with a minor in statistics and, during her time here, she has done a little of just about everything. That includes: being a TA, doing research, mentoring first year students, having internships, and leading student organizations. It’s safe to say there’s a space here for everyone, and she is excited to share it with you!
+
+      **Email**: <a href="mailto:marlenaalvino@gwmail.gwu.edu">marlenaalvino@gwmail.gwu.edu</a>
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/marlee.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+
+## Samantha Kusner
+<div id="samantha-kusner"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Sam** is a senior majoring in computer science. During her time at GW, she’s had the opportunity to be on the leadership team for few different organizations, foster a positive learning environment as an LA and UTA, and speak to students like you who are just joining the CS community here. Outside of school, she’s had a few internships which have helped her get a better understanding of what possibilities are out there! She’s looking forward to sharing some of her experience with you.
+
+      **Email**: <a href="mailto:samkusner430@gwmail.gwu.edu">samkusner430@gwmail.gwu.edu</a>
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/samantha.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+
+## Kate Halushka
+<div id="kate-halushka"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Kate** is a senior majoring in computer science and has been coding since high school! Throughout her time at GW, she has been a TA for 3 different CS classes, held leadership positions in multiple orgs, and studied abroad in London. She is currently co-chair of [**WiCS** (_Women in Computer Science_)](https://gwwics.github.io/) at GW. She has also completed 2 summer internships, and is a member of **Sigma Delta Tau**. She’s excited to share how she has taken advantage of the opportunities available in CS at GW!
+
+      **Email**: <a href="mailto:khalushka@gwmail.gwu.edu">khalushka@gwmail.gwu.edu</a>
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/kate.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+## Josie Libbon
+<div id="josie-lisbon"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Josie** is a senior majoring in computer science and minoring in political science. Throughout her time at GW, she has been an LA and TA for 3 different CS classes, held leadership positions in orgs such as [**WiCS**](https://gwwics.github.io/) and **ACM**, and conducted research with various professors surrounding real-time artificial intelligence. She is currently the undergraduate representative for the CS Curriculum Committee at GW. She has also completed a summer internship at a DMV government contractor, and will be returning there after she graduates in May. She is excited to discuss and give advice on how to have a successful career at GW!
+      
+      **Email**: <a href="mailto:josielibbon@gwmail.gwu.edu">josielibbon@gwmail.gwu.edu</a>
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/josie.jpeg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+## Ryah Carpenter
+<div id="rayh-carpenter"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Ryah** is a senior majoring in computer science and minoring in criminal justice. Throughout her time at GW, she has been involved with the [Women’s Club Lacrosse](https://gwu.campuslabs.com/engage/organization/gw-women-s-club-lacrosse) team, been an LA and TA for 3 different CS classes, and conducted research on real-time artificial intelligence. She has also completed two summer internships, and is excited to share all her advice for making the most out of your time in college!
+      
+      **Email**: <a href="mailto:jrcarpenter349@gwmail.gwu.edu">jrcarpenter349@gwmail.gwu.edu</a>
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/ryah.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+
+## Lindsey Cicero
+<div id="lindsey-cicero"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Lindsey** is a senior majoring in Computer Science with a minor in Creative Writing and a minor in Fine Arts. She is completing the BA program, and that has allowed her to explore her many interests while at GW. Within SEAS Lindsey has held many leadership positions such as being the former Co-Chair of [**WiCS**](https://gwwics.github.io/) as well as the current President of [**SEASSPAN**](https://www.seas.gwu.edu/seasspan). She has also been a TA for some of the upper level CS classes and has had the opportunity to complete two summer internships. She is excited to chat about how to take advantage of the unique opportunities GW provides and how to find what interest you in CS!
+      
+      **Email**: <a href="mailto:lindseycicero@gwu.edu">lindseycicero@gwu.edu</a>
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/lindsey.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+## Clare Jenney
+<div id="clare-jenney"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Clare** is a senior majoring in computer science and minoring in economics. During her time at GW, she has enjoyed being an LA and TA for Discrete II and Foundations of Computing, and she hosts a show on GW radio. She has interests in many different areas of computer science, including cybersecurity and low level programming. She is excited to share her experiences and advice about being a student in CS!      
+      
+      **Email**: <a href="mailto:cjenney77@gwmail.gwu.edu">cjenney77@gwmail.gwu.edu</a>
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/clare.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+<!-- <br><br>
+<footer>
+  <p><small><small><small><small>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2023 All rights reserved</small></small></small></small></p>
+</footer> -->
