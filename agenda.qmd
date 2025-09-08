@@ -145,7 +145,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             </td> 
             <td><ul>
                 <li><strong>Python Pandas Party: Turning Data into Decisions!</strong> [Basics of datafranmes]</li>  
-                <li><strong>Polished Documents, Simple Syntax: Your Guide to LaTeX and Markdown</strong> Your First Scientific Document</li>     
+                <li><strong>Polished Documents, Simple Syntax: Your Guide to LaTeX and Markdown</strong> And Your First Scientific Document</li>     
                 <li><strong>Get Connected: Collaborate and Create with GitHub!</strong> Your First GitHub Repo</li>                      
             </td>            
             <td>TBA</td>
@@ -158,7 +158,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
         <tr>
             <td>6: 12/01 to 12/07</td>
             <td>12/05</td>            
-            <td colspan="3"><strong>Raising Colonials Higher: A Mechanical & Aerospace Journey</strong> [Field trip to MAE Department]</td>        
+            <td colspan="3"><strong>Raising MAE-Revs Higher: A Mechanical & Aerospace Journey</strong> [Field trip to MAE Department]</td>        
         </tr>   
         <tr>            
             <td>7: 12/01 to 12/07</td>
