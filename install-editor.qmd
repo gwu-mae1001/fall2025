@@ -154,7 +154,7 @@ The following installation are required on your personal computers to move forwa
   - Donwload the installation file **[here](/downloads/thonny-4.1.7.exe)**
   - Follow installation instructions- **[Thonny Python IDE for Windows](thonny-windows.qmd)**
 
-- **Step 3:** Download and install **[Anaconda for macOS](anaconda-windows.qmd)**  
+- **Step 3:** Download and install **[Anaconda for Windows](anaconda-windows.qmd)**  
 
 - **Step 4:** Download and install **[VS Code for Windows](vscode-windows.qmd)**
 
