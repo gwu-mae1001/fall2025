@@ -109,10 +109,12 @@ The following installation are required on your personal computers to move forwa
 <!-- - **Step 1**: [Install Anaconda for Mac](anaconda-mac.qmd) -->
 
 - **Step 1:** Install Real VNC Viewer for Mac OS 12+
-  - Donwload the installation file **[here](/Downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)**
+  - Donwload the installation file **[here](/downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)**
   - Follow installation instructions **[here](realvnc-mac.qmd)**
 
-- **Step 2:** Download and install **[Thonny Python IDE for macOS](thonny-mac.qmd)**  
+- **Step 2:** Install Thonny Python
+  - Donwload the installation file **[here](/downloads/thonny-4.1.7.pkg)**
+  - Follow installation instructions- **[Thonny Python IDE for macOS](thonny-mac.qmd)**  
 
 - **Step 3:** Download and install **[VS Code for macOS](vscode-mac.qmd)**  
 
@@ -143,10 +145,12 @@ The following installation are required on your personal computers to move forwa
 <!-- - **Step 1**: [Install Anaconda for Windows](anaconda-windows.qmd) -->
 
 - **Step 1:** Install Real VNC Viewer for Windows 10+
-  - Donwload the installation file **[here](/Downloads/VNC-Viewer-7.12.1-Windows.exe)**
+  - Donwload the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
   - Follow installation instructions **[here](realvnc-windows.qmd)**
 
-- **Step 2:** Download and install **[Thonny Python IDE for Windows](thonny-windows.qmd)**
+- **Step 2:** Install Thonny Python
+  - Donwload the installation file **[here](/downloads/thonny-4.1.7.exe)**
+  - Follow installation instructions- **[Thonny Python IDE for Windows](thonny-windows.qmd)**
 
 - **Step 3:** Download and install **[VS Code for Windows](vscode-windows.qmd)**
 
