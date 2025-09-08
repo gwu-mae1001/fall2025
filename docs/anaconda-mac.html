@@ -9,7 +9,7 @@
 <meta name="author" content="Kartik Bulusu">
 <meta name="dcterms.date" content="2025-09-08">
 
-<title>Much needed software installations – MAE 1001 [Fall 2025]</title>
+<title>Anaconda Installation Guide for macOS – MAE 1001 [Fall 2025]</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./guidelines.html" rel="next">
-<link href="./getting_started.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -84,7 +82,9 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./getting_started.html">Getting Started</a></li><li class="breadcrumb-item"><a href="./install-editor.html">MUST DO Software Installations</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">
+      MAE 1001 [Fall 2025]
+      </li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -132,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./install-editor.html" class="sidebar-item-text sidebar-link active">
+  <a href="./install-editor.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">MUST DO Software Installations</span></a>
   </div>
 </li>
@@ -172,22 +172,31 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#installation-instructions" id="toc-installation-instructions" class="nav-link active" data-scroll-target="#installation-instructions">Installation instructions</a>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
+  <li><a href="#installation-steps" id="toc-installation-steps" class="nav-link" data-scroll-target="#installation-steps">Installation Steps</a>
   <ul class="collapse">
-  <li><a href="#select-an-option-appropriate-for-your-operating-system" id="toc-select-an-option-appropriate-for-your-operating-system" class="nav-link" data-scroll-target="#select-an-option-appropriate-for-your-operating-system"><strong>Select an option appropriate for your operating system</strong></a></li>
-  <li><a href="#macos" id="toc-macos" class="nav-link" data-scroll-target="#macos"><strong>MacOS:</strong></a></li>
-  <li><a href="#windows" id="toc-windows" class="nav-link" data-scroll-target="#windows"><strong>Windows:</strong></a></li>
+  <li><a href="#download-anaconda" id="toc-download-anaconda" class="nav-link" data-scroll-target="#download-anaconda">1. Download Anaconda</a></li>
+  <li><a href="#choose-the-macos-installer" id="toc-choose-the-macos-installer" class="nav-link" data-scroll-target="#choose-the-macos-installer">2. Choose the macOS Installer</a></li>
+  <li><a href="#run-the-installer" id="toc-run-the-installer" class="nav-link" data-scroll-target="#run-the-installer">3. Run the Installer</a></li>
+  <li><a href="#follow-the-installer-wizard" id="toc-follow-the-installer-wizard" class="nav-link" data-scroll-target="#follow-the-installer-wizard">4. Follow the Installer Wizard</a></li>
+  <li><a href="#install-anaconda" id="toc-install-anaconda" class="nav-link" data-scroll-target="#install-anaconda">5. Install Anaconda</a></li>
+  <li><a href="#complete-the-installation" id="toc-complete-the-installation" class="nav-link" data-scroll-target="#complete-the-installation">6. Complete the Installation</a></li>
+  <li><a href="#move-the-installer-file-to-trash-optional" id="toc-move-the-installer-file-to-trash-optional" class="nav-link" data-scroll-target="#move-the-installer-file-to-trash-optional">7. Move the Installer file to Trash <strong>(Optional)</strong></a></li>
+  <li><a href="#if-prompted-to-update-the-navigator-select-no-dont-show-again" id="toc-if-prompted-to-update-the-navigator-select-no-dont-show-again" class="nav-link" data-scroll-target="#if-prompted-to-update-the-navigator-select-no-dont-show-again">8. If prompted to update the navigator, select “No, don’t show again”</a></li>
+  <li><a href="#youre-not-required-to-log-insign-up-for-anaconda-cloud-close-the-prompt-by-clicking-the-x-button" id="toc-youre-not-required-to-log-insign-up-for-anaconda-cloud-close-the-prompt-by-clicking-the-x-button" class="nav-link" data-scroll-target="#youre-not-required-to-log-insign-up-for-anaconda-cloud-close-the-prompt-by-clicking-the-x-button">9. You’re <u>NOT REQUIRED</u> to Log in/Sign up for Anaconda Cloud, close the prompt by clicking the “x” button</a></li>
+  <li><a href="#verify-the-installation" id="toc-verify-the-installation" class="nav-link" data-scroll-target="#verify-the-installation">10. Verify the Installation</a></li>
   </ul></li>
-  <li><a href="#additional-information-on-remote-access-software-vnc-viewer" id="toc-additional-information-on-remote-access-software-vnc-viewer" class="nav-link" data-scroll-target="#additional-information-on-remote-access-software-vnc-viewer">Additional information on remote access software: VNC® Viewer</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./getting_started.html">Getting Started</a></li><li class="breadcrumb-item"><a href="./install-editor.html">MUST DO Software Installations</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Much needed software installations</h1>
+<h1 class="title">Anaconda Installation Guide for macOS</h1>
 </div>
 
 
@@ -242,254 +251,164 @@ Important
 <p>Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.</p>
 </div>
 </div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>READ ME before you start installations on your personal computer:</strong></p>
-<ul>
-<li><p>The course is desinged with active learning modules with limited number of hardware components. It is required that these software be installed and working on your computers so that you may connect to the hardware provided and execute programs effectively.</p></li>
-<li><p>You are strongly encouraged to bring your own personal machine or laptop and participate with the <a href="./install-editor.html">prerequisites</a> installed.</p></li>
-<li><p><strong>Only Windows 10+ or Macintosh 12+ computers with QWERTY keyboards are supported for this course.</strong> The instructor has limited time to troubleshoot any OS-related problems.</p>
-<ul>
-<li>The QWERTY (pronounced KWEHR-tee) keyboard is the standard typewriter and computer keyboard in countries that use a Latin-based alphabet.</li>
-</ul></li>
-<li><p><strong>Linux OS-based laptops / personal computers and mobile /handheld-devices are not supported this semester for in-class usage on your personal machine.</strong></p></li>
-<li><p><strong>Raspberry Pi 4B with Raspberry Pi OS will be in all devices supplied during the course.</strong></p>
-<ul>
-<li>Raspberry Pi OS is a Unix-like operating system based on the Debian Linux distribution for the Raspberry Pi family of compact single-board computers. Source: <a href="https://en.wikipedia.org/wiki/Raspberry_Pi_OS">wikipedia</a></li>
-</ul></li>
-</ul>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<!-- - The workshop is desinged with active learning modules with limited number of hardware components.  -->
-<ul>
-<li>You are strongly encouraged to bring your own personal machine or laptop and participate with the <a href="./install-editor.html">prerequisites</a> installed.</li>
-<li>Follow the instructions provided carefully and complete the required installations needed for this workshop. (<a href="./install-editor.html">See prerequisites</a>) <!-- - Once you finish the **Steps 1, 2 and 3 in the installation instructions** in [prerequisites](install-editor.qmd), fill out the [Pre-workshop survey form](https://tinyurl.com/yrkacfd9).  --></li>
-<li><strong>You will be automatically entered into a raffle in the workshop on 10/17/2025 if you complete the installation check-in form.</strong></li>
-</ul>
-</div>
-</div>
-<!-- # Installing a remote access software: VNC&reg; Viewer
-
-VNC&reg; Viewer is a remote access software application, that facilitates exchange data over the RFB protocol to allow the Viewer to control the Server's screen remotely.
-
-Source: [Wiki](https://en.wikipedia.org/wiki/RealVNC)
-
-<!-- <small>*Running your First Program*</small> -->
-<p><!-- - **How do I install VNC&reg; Viewer?** --></p>
-<!-- Just run the installer on the device you want to control from and follow the instructions, or there’s MSIs for remote deployment under Windows. If you don’t have permission to install VNC® Viewer on desktop platforms, choose the standalone option. -->
-<!-- Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&lai_sr=10-14&lai_sl=l&lai_p=1) -->
-<!-- - **How do I control a remote computer?** -->
-<!-- 
-If you have a keyboard and mouse in front of you, use them as you would normally. We don't recommed the use of a mobile device for this workshop. However, if you’re on a mobile device, then your touchscreen acts as a mouse trackpad, with gestures mapped to mouse buttons.  -->
-<!-- 
-Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&lai_sr=10-14&lai_sl=l&lai_p=1) -->
-<!-- - **Do I need to license the software?** -->
-<!-- No. VNC &reg; Viewer is always free to use. Just accept the EULA the first time you run. -->
-<!-- Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&lai_sr=10-14&lai_sl=l&lai_p=1) -->
-<p>–&gt;</p>
-<!-- ## *What is an Editor?*
-
-In the world of programming, an editor is more than just a text processor. It's your creative workspace where you bring your code to life. Here are some key aspects of code editors:
-
-- **Text Editing**: At its core, an editor allows you to write, edit, and organize code in various programming languages. It provides features like syntax highlighting, auto-indentation, and code completion to enhance your coding experience.
-
-- **Code Execution**: Some editors, like Jupyter Notebook, not only allow you to write code but also execute it in an interactive and step-by-step manner. This is especially useful for data analysis and experimentation.
-
-- **Extensions and Plugins**: Code editors are highly customizable. You can enhance their functionality by installing extensions or plugins tailored to your needs. For example, you can add Python-specific tools or themes to make your editor visually appealing.
-
-- **Integrated Development Environments (IDEs)**: Some editors, such as Visual Studio Code (VS Code), go beyond text editing and offer a complete integrated development environment with debugging capabilities, version control integration, and more.
-
-- **Collaboration**: Many editors support collaborative coding, allowing multiple programmers to work on the same codebase simultaneously, which is crucial for group projects.
-
-<!-- In your CSCI1010 class, you'll use a combination of Anaconda, Jupyter, and VS Code:
-
-- **Anaconda**: Anaconda is a Python distribution that simplifies package management and environment setup. It's particularly valuable for data science projects, as it comes with a wide array of pre-installed libraries and tools.
-
-- **Jupyter**: Jupyter Notebook is an interactive environment that enables you to create and share documents containing live code, equations, visualizations, and narrative text. It's an excellent choice for data analysis and presenting your findings.
-
-- **VS Code**: Visual Studio Code (VS Code) is a versatile code editor that supports multiple programming languages and offers a rich ecosystem of extensions. Its user-friendly interface and powerful features make it a great choice for general programming tasks. -->
-<section id="installation-instructions" class="level1">
-<h1>Installation instructions</h1>
-<p>The following installation are required on your personal computers to move forward in this course amd need to be completed on first meeting day:</p>
-<section id="select-an-option-appropriate-for-your-operating-system" class="level3">
-<h3 class="anchored" data-anchor-id="select-an-option-appropriate-for-your-operating-system"><strong>Select an option appropriate for your operating system</strong></h3>
-<!-- <div id="steps"></div> -->
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>This guide will walk you through the process of installing Anaconda, a popular Python distribution, on your macOS computer. Anaconda provides a convenient way to manage Python packages and environments for data science and scientific computing.</p>
 </section>
-<section id="macos" class="level3">
-<h3 class="anchored" data-anchor-id="macos"><strong>MacOS:</strong></h3>
-<!-- - **Step 1**: [Install Anaconda for Mac](anaconda-mac.qmd) -->
-<ul>
-<li><p><strong>Step 1:</strong> Install Real VNC Viewer for Mac OS 12+</p>
-<ul>
-<li>Donwload the installation file <strong><a href="./downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg">here</a></strong></li>
-<li>Follow installation instructions <strong><a href="./realvnc-mac.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 2:</strong> Install Thonny Python</p>
-<ul>
-<li>Donwload the installation file <strong><a href="./downloads/thonny-4.1.7.pkg">here</a></strong></li>
-<li>Follow installation instructions- <strong><a href="./thonny-mac.html">Thonny Python IDE for macOS</a></strong></li>
-</ul></li>
-<li><p><strong>Step 3:</strong> Download and install <strong><a href="./anaconda-mac.html">Anaconda for macOS</a></strong></p></li>
-<li><p><strong>Step 4:</strong> Download and install <strong><a href="./vscode-mac.html">VS Code for macOS</a></strong></p></li>
-<li><p><strong>Step 5:</strong> Install Git for Mac: <a href="https://en.wikipedia.org/wiki/Git">Check wiki-page to learn what Git is all about</a></p>
-<ul>
-<li>Git may already be installed on your Mac.</li>
-<li>Follow installation instructions to check your git-installation <strong><a href="./git-mac.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 6:</strong> Create a GitHub account</p>
-<ul>
-<li>If you already have a GitHub account you may skipt this step</li>
-<li>Othewrise, follow instructions <strong><a href="./github-acct.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 7:</strong> Create a GitHub repo</p>
-<ul>
-<li>Follow instructions <strong><a href="./github-repo.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 8:</strong> Download and install <strong><a href="https://www.google.com/chrome/browser-tools/">Chrome web browser</a></strong></p>
-<ul>
-<li>Skip this step if you already have Chrome installed on your laptop.</li>
-</ul></li>
-</ul>
-<!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
-  - This step requires Step 2 to be completed as some codes involving web applications may work better on the Chrome browser.
-  - Follow the steps on this page [**ThingSpeak**](thingspeak.qmd) to finish account creation. -->
-<!-- - **Step 4:** **Laptop connection to the Raspberry Pi** using an [Ethernet cable and VNC Viewer](realvnc-mac-connect.qmd) -->
-<!-- - **Step 5:** [Install Python and Jupyter without Anaconda](python3-mac.qmd) -->
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<p>Before you begin, ensure you have the following:</p>
+<ol type="1">
+<li>A macOS computer.</li>
+<li>An internet connection.</li>
+<li>Sufficient disk space for the installation.</li>
+</ol>
 </section>
-<section id="windows" class="level3">
-<h3 class="anchored" data-anchor-id="windows"><strong>Windows:</strong></h3>
-<!-- - **Step 1**: [Install Anaconda for Windows](anaconda-windows.qmd) -->
+<section id="installation-steps" class="level2">
+<h2 class="anchored" data-anchor-id="installation-steps">Installation Steps</h2>
+<section id="download-anaconda" class="level3">
+<h3 class="anchored" data-anchor-id="download-anaconda">1. Download Anaconda</h3>
+<p>Visit the Anaconda download page at <a href="https://www.anaconda.com/download">https://www.anaconda.com/download</a>.</p>
+</section>
+<section id="choose-the-macos-installer" class="level3">
+<h3 class="anchored" data-anchor-id="choose-the-macos-installer">2. Choose the macOS Installer</h3>
+<p>Click on the “Download” button under the macOS section depending on you System-on-chip (<strong>Intel/M1/M2</strong>) to download the Anaconda installer for macOS.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-1.png" class="img-fluid figure-img"></p>
+<figcaption>Download Anaconda</figcaption>
+</figure>
+</div>
+</section>
+<section id="run-the-installer" class="level3">
+<h3 class="anchored" data-anchor-id="run-the-installer">3. Run the Installer</h3>
 <ul>
-<li><p><strong>Step 1:</strong> Install Real VNC Viewer for Windows 10+</p>
-<ul>
-<li>Donwload the installation file <strong><a href="./downloads/VNC-Viewer-7.12.1-Windows.exe">here</a></strong></li>
-<li>Follow installation instructions <strong><a href="./realvnc-windows.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 2:</strong> Install Thonny Python</p>
-<ul>
-<li>Donwload the installation file <strong><a href="./downloads/thonny-4.1.7.exe">here</a></strong></li>
-<li>Follow installation instructions- <strong><a href="./thonny-windows.html">Thonny Python IDE for Windows</a></strong></li>
-</ul></li>
-<li><p><strong>Step 3:</strong> Download and install <strong><a href="./anaconda-windows.html">Anaconda for macOS</a></strong></p></li>
-<li><p><strong>Step 4:</strong> Download and install <strong><a href="./vscode-windows.html">VS Code for Windows</a></strong></p></li>
-<li><p><strong>Step 5:</strong> Install Git for Windows: <a href="https://en.wikipedia.org/wiki/Git">Check wiki-page to learn what Git is all about</a></p>
-<ul>
-<li>Follow installations instructions <strong><a href="./git-windows.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 6:</strong> Create a GitHub account</p>
-<ul>
-<li>If you already have a GitHub account you may skipt this step</li>
-<li>Othewrise, follow instructions <strong><a href="./github-acct.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 7:</strong> Create a GitHub repo</p>
-<ul>
-<li>Follow instructions <strong><a href="./github-repo.html">here</a></strong></li>
-</ul></li>
-<li><p><strong>Step 8:</strong> Download and install <strong><a href="https://www.google.com/chrome/browser-tools/">Chrome web browser</a></strong></p>
-<ul>
-<li>Skip this step if you already have Chrome installed on your laptop.</li>
-</ul></li>
+<li>Locate the downloaded file (usually in your “Downloads” folder).</li>
+<li>Double-click the Anaconda disk image (<code>.dmg</code>) file to open it and click on “Allow” when prompted.</li>
 </ul>
-<!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
-  - This step requires Step 2 to be completed as some codes involving web applications may work better on the Chrome browser.
-  - Follow the steps on this page [**ThingSpeak**](thingspeak.qmd) to finish account creation. -->
-<!-- # Connecting your laptop to the Raspberry Pi using VNC&reg; Viewer
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-2.png" class="img-fluid figure-img"></p>
+<figcaption>Run Installer</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-3.png" class="img-fluid figure-img"></p>
+<figcaption>Allow Installation</figcaption>
+</figure>
+</div>
+</section>
+<section id="follow-the-installer-wizard" class="level3">
+<h3 class="anchored" data-anchor-id="follow-the-installer-wizard">4. Follow the Installer Wizard</h3>
+<ul>
+<li>Follow the on-screen instructions to begin the installation.</li>
+<li>Read and accept the license agreement when prompted.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-4.png" class="img-fluid figure-img"></p>
+<figcaption>Read Me</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-5.png" class="img-fluid figure-img"></p>
+<figcaption>License Agreement</figcaption>
+</figure>
+</div>
+</section>
+<section id="install-anaconda" class="level3">
+<h3 class="anchored" data-anchor-id="install-anaconda">5. Install Anaconda</h3>
+<p>Click the “Install” button to begin the installation process. This may take a few minutes.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-6.png" class="img-fluid figure-img"></p>
+<figcaption>Install</figcaption>
+</figure>
+</div>
+</section>
+<section id="complete-the-installation" class="level3">
+<h3 class="anchored" data-anchor-id="complete-the-installation">6. Complete the Installation</h3>
+<p>Once the installation is complete, you will see a confirmation message. Click the “Continue” button and finally close the installation wizard by clicking on the “Close” button.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-7.png" class="img-fluid figure-img"></p>
+<figcaption>Installation Complete</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-8.png" class="img-fluid figure-img"></p>
+<figcaption>Close Installation Wizard</figcaption>
+</figure>
+</div>
+</section>
+<section id="move-the-installer-file-to-trash-optional" class="level3">
+<h3 class="anchored" data-anchor-id="move-the-installer-file-to-trash-optional">7. Move the Installer file to Trash <strong>(Optional)</strong></h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-9.png" class="img-fluid figure-img"></p>
+<figcaption>Move the Installer to Trash</figcaption>
+</figure>
+</div>
+</section>
+<section id="if-prompted-to-update-the-navigator-select-no-dont-show-again" class="level3">
+<h3 class="anchored" data-anchor-id="if-prompted-to-update-the-navigator-select-no-dont-show-again">8. If prompted to update the navigator, select “No, don’t show again”</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-10.png" class="img-fluid figure-img"></p>
+<figcaption>Don’t Update</figcaption>
+</figure>
+</div>
+</section>
+<section id="youre-not-required-to-log-insign-up-for-anaconda-cloud-close-the-prompt-by-clicking-the-x-button" class="level3">
+<h3 class="anchored" data-anchor-id="youre-not-required-to-log-insign-up-for-anaconda-cloud-close-the-prompt-by-clicking-the-x-button">9. You’re <u>NOT REQUIRED</u> to Log in/Sign up for Anaconda Cloud, close the prompt by clicking the “x” button</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-13.png" class="img-fluid figure-img"></p>
+<figcaption>Don’t Log in/Sign up</figcaption>
+</figure>
+</div>
+</section>
+<section id="verify-the-installation" class="level3">
+<h3 class="anchored" data-anchor-id="verify-the-installation">10. Verify the Installation</h3>
+<!-- Open the "Terminal" application on your macOS computer and type the following command to verify that Anaconda and Jupyter were installed successfully:
 
-### **Select an option appropriate for your operating system**
+```bash
+jupyter --version
+```
 
-#### **MacOS:**
-- **Step 4:** **Laptop connection to the Raspberry Pi** using an [Ethernet cable and VNC Viewer](realvnc-mac-connect.qmd)
+![Open Terminal](images/screenshots/anaconda-mac/screenshot-11.png)
 
-#### **Windows:**
-
-- **Step 4:** **Laptop connection to the Raspberry Pi** using an [Ethernet cable and VNC Viewer](realvnc-windows-connect.qmd) -->
-<!-- - **Step 5:** [Install Python and Jupyter without Anaconda](python3-windows.qmd) -->
-<!-- Choose the option that best suits your needs and follow the respective installation instructions. -->
-<!-- Once you have an editor installed, you can start writing and running your code. Happy coding! -->
-<!-- will help you throughout this workshop, helping you write, execute, and code effectively. Select the appropriate option for your operating system, follow the installation instructions, and dive into the world of coding with confidence! 
-
- - Follow the instructions provided carefully and complete the required installations needed for this workshop. ([See prerequisites](install-editor.qmd))
- - Once you finish the **Steps 1, 2 and 3 in the installation instructions** in [prerequisites](install-editor.qmd), fill out the [Pre-workshop survey form](https://tinyurl.com/yrkacfd9). 
- - **You will be automatically entered into a raffle in the workshop on 10/12/2024 if you complete the installation check-in form.**
-::: -->
-<hr>
+![Verify Jupyter Installation](images/screenshots/anaconda-mac/screenshot-12.png) -->
+<p>To verify the installation launch a local Jupyter Server by clicking on the “launch” button for Jupyter Notebook.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-14.png" class="img-fluid figure-img"></p>
+<figcaption>Launch Jupyter Server</figcaption>
+</figure>
+</div>
+<p>You should see a terminal open and the Jupyter Notebbok server launched in a browser window.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/screenshots/anaconda-mac/screenshot-15.png" class="img-fluid figure-img"></p>
+<figcaption>Jupyter Server Launched</figcaption>
+</figure>
+</div>
 </section>
 </section>
-<section id="additional-information-on-remote-access-software-vnc-viewer" class="level1">
-<h1>Additional information on remote access software: VNC® Viewer</h1>
-<p>VNC® Viewer is a remote access software application, that facilitates exchange data over the RFB protocol to allow the Viewer to control the Server’s screen remotely.</p>
-<p>Source: <a href="https://en.wikipedia.org/wiki/RealVNC">Wiki</a></p>
-<!-- <small>*Running your First Program*</small> -->
-<ul>
-<li><strong>How do I install VNC® Viewer?</strong></li>
-</ul>
-<p>Just run the installer on the device you want to control from and follow the instructions, or there’s MSIs for remote deployment under Windows. If you don’t have permission to install VNC® Viewer on desktop platforms, choose the standalone option.</p>
-<p>Source: <a href="https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&amp;lai_sr=10-14&amp;lai_sl=l&amp;lai_p=1">Real VNC FAQs</a></p>
-<ul>
-<li><strong>How do I control a remote computer?</strong></li>
-</ul>
-<p>If you have a keyboard and mouse in front of you, use them as you would normally. We don’t recommed the use of a mobile device for this workshop. However, if you’re on a mobile device, then your touchscreen acts as a mouse trackpad, with gestures mapped to mouse buttons.</p>
-<p>Source: <a href="https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&amp;lai_sr=10-14&amp;lai_sl=l&amp;lai_p=1">Real VNC FAQs</a></p>
-<ul>
-<li><strong>Do I need to license the software?</strong> No.&nbsp;VNC ® Viewer is always free to use. Just accept the EULA the first time you run.</li>
-</ul>
-<p>Source: <a href="https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&amp;lai_sr=10-14&amp;lai_sl=l&amp;lai_p=1">Real VNC FAQs</a></p>
-<!-- ## *What is an Editor?*
-
-In the world of programming, an editor is more than just a text processor. It's your creative workspace where you bring your code to life. Here are some key aspects of code editors:
-
-- **Text Editing**: At its core, an editor allows you to write, edit, and organize code in various programming languages. It provides features like syntax highlighting, auto-indentation, and code completion to enhance your coding experience.
-
-- **Code Execution**: Some editors, like Jupyter Notebook, not only allow you to write code but also execute it in an interactive and step-by-step manner. This is especially useful for data analysis and experimentation.
-
-- **Extensions and Plugins**: Code editors are highly customizable. You can enhance their functionality by installing extensions or plugins tailored to your needs. For example, you can add Python-specific tools or themes to make your editor visually appealing.
-
-- **Integrated Development Environments (IDEs)**: Some editors, such as Visual Studio Code (VS Code), go beyond text editing and offer a complete integrated development environment with debugging capabilities, version control integration, and more.
-
-- **Collaboration**: Many editors support collaborative coding, allowing multiple programmers to work on the same codebase simultaneously, which is crucial for group projects.
-
-<!-- In your CSCI1010 class, you'll use a combination of Anaconda, Jupyter, and VS Code:
-
-- **Anaconda**: Anaconda is a Python distribution that simplifies package management and environment setup. It's particularly valuable for data science projects, as it comes with a wide array of pre-installed libraries and tools.
-
-- **Jupyter**: Jupyter Notebook is an interactive environment that enables you to create and share documents containing live code, equations, visualizations, and narrative text. It's an excellent choice for data analysis and presenting your findings.
-
-- **VS Code**: Visual Studio Code (VS Code) is a versatile code editor that supports multiple programming languages and offers a rich ecosystem of extensions. Its user-friendly interface and powerful features make it a great choice for general programming tasks. -->
-<!-- <small><small>*Content on this webpage was partially generated using ChatGPT.*</small></small> -->
-<!-- <br>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Congratulations! You’ve successfully installed Anaconda and Jupyter on your macOS computer. You can now use Anaconda to create Python environments, manage packages, and work on data science projects.</p>
+<p>For more information on using Anaconda, refer to the official documentation at <a href="https://docs.anaconda.com/">https://docs.anaconda.com/</a>.</p>
+<p>If you encounter any issues or have questions, don’t hesitate to seek help from the Anaconda community or consult the documentation for troubleshooting tips.</p>
+<br>
 <footer>
-  <p><small><small><small><small>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
-  Author: Kartik Bulusu<br>
-  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
-  &copy; 2024 All rights reserved</small></small></small></small></p>
-</footer> -->
-<hr>
-<!-- <small><small>*Content on this webpage was partially generated using ChatGPT.*</small></small> -->
-<!-- <br>
-<footer>
-  <p><small><small><small><small>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
-  Author: Kartik Bulusu<br>
-  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
-  &copy; 2024 All rights reserved</small></small></small></small></p>
-</footer> -->
+<p>
+<small><small><small><small>This is a Quarto website. To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.<br> Author: Kartik Bulusu<br> Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br> © 2023 All rights reserved</small></small></small></small>
+</p>
+</footer>
 
 
 </section>
@@ -851,18 +770,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="./getting_started.html" class="pagination-link" aria-label="MUST READ Preliminaries">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">MUST READ Preliminaries</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="./guidelines.html" class="pagination-link" aria-label="Course Policies">
-        <span class="nav-page-text">Course Policies</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

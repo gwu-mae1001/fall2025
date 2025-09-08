@@ -116,20 +116,22 @@ The following installation are required on your personal computers to move forwa
   - Donwload the installation file **[here](/downloads/thonny-4.1.7.pkg)**
   - Follow installation instructions- **[Thonny Python IDE for macOS](thonny-mac.qmd)**  
 
-- **Step 3:** Download and install **[VS Code for macOS](vscode-mac.qmd)**  
+- **Step 3:** Download and install **[Anaconda for macOS](anaconda-mac.qmd)**  
 
-- **Step 4:** Install Git for Mac: [Check wiki-page to learn what Git is all about](https://en.wikipedia.org/wiki/Git)
+- **Step 4:** Download and install **[VS Code for macOS](vscode-mac.qmd)**  
+
+- **Step 5:** Install Git for Mac: [Check wiki-page to learn what Git is all about](https://en.wikipedia.org/wiki/Git)
   - Git may already be installed on your Mac.
   - Follow installation instructions to check your git-installation **[here](git-mac.qmd)** 
 
-- **Step 5:** Create a GitHub account 
+- **Step 6:** Create a GitHub account 
   - If you already have a GitHub account you may skipt this step
   - Othewrise, follow instructions **[here](github-acct.qmd)**
 
-- **Step 6:** Create a GitHub repo
+- **Step 7:** Create a GitHub repo
   - Follow instructions **[here](github-repo.qmd)**
 
-- **Step 7:** Download and install **[Chrome web browser](https://www.google.com/chrome/browser-tools/)**
+- **Step 8:** Download and install **[Chrome web browser](https://www.google.com/chrome/browser-tools/)**
   - Skip this step if you already have Chrome installed on your laptop.
 
 <!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
@@ -152,19 +154,21 @@ The following installation are required on your personal computers to move forwa
   - Donwload the installation file **[here](/downloads/thonny-4.1.7.exe)**
   - Follow installation instructions- **[Thonny Python IDE for Windows](thonny-windows.qmd)**
 
-- **Step 3:** Download and install **[VS Code for Windows](vscode-windows.qmd)**
+- **Step 3:** Download and install **[Anaconda for macOS](anaconda-windows.qmd)**  
 
-- **Step 4:** Install Git for Windows: [Check wiki-page to learn what Git is all about](https://en.wikipedia.org/wiki/Git)
+- **Step 4:** Download and install **[VS Code for Windows](vscode-windows.qmd)**
+
+- **Step 5:** Install Git for Windows: [Check wiki-page to learn what Git is all about](https://en.wikipedia.org/wiki/Git)
   - Follow installations instructions **[here](git-windows.qmd)**
 
-- **Step 5:** Create a GitHub account 
+- **Step 6:** Create a GitHub account 
   - If you already have a GitHub account you may skipt this step
   - Othewrise, follow instructions **[here](github-acct.qmd)**
 
-- **Step 6:** Create a GitHub repo
+- **Step 7:** Create a GitHub repo
   - Follow instructions **[here](github-repo.qmd)**
 
-- **Step 7:** Download and install **[Chrome web browser](https://www.google.com/chrome/browser-tools/)**
+- **Step 8:** Download and install **[Chrome web browser](https://www.google.com/chrome/browser-tools/)**
   - Skip this step if you already have Chrome installed on your laptop.
 
 <!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
