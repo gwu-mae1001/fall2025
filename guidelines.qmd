@@ -47,21 +47,50 @@ The following grading scale will be applied at the end of the semester to calcul
 
 Grades are "rounded up" to the nearest integer.
 
-## Grading policy
+## Grading and late work policy
 
-- Late submissions on Homework and projects will not be acceptable.
 - There is no required final exam.
 - There may be instances in the presentations where peer-evaluations may be introduced at the discretion of the instructor.
-- The instructor will seeks inputs from the class and decide if course projects will be done individfually, in groups or in a combination. 
+- The instructor may seek inputs from the class and decide if course projects will be done individually, in groups or in a combination. 
 
-**The grade for the laboratories, recitations and ethics poste will be awared only the student demonstrates all the following:** 
+**Late submissions on course deliverables will not be accepted, with the following exceptions:**
+
+- Extensions will be granted should there arise due to circumstances beyond your control that impede your ability to complete coursework and turn in a deliverable on time. 
+- Notify your professor as soon as feasible in these cases. Examples of such circumstances include (but are not limited to) illness, death in the family, and loss of housing. 
+- To ensure fairness toward all students, the instructor will request documentation of such circumstances.
+
+**The grades for the course deliverables will be awared only the student demonstrates all the following:** 
 
 1. Attendance 
-2. Satisfactory performance and conduct during the laboratory and recitation sessions and 
+2. Satisfactory performance and conduct during the course and 
 3. Maintains Academic Integrity
 
 **The instructor may at any time escalate, academic intergrity issues with any potential incident of academic dishonesty, before [Conflict Education & Student Accountability (CESA)](https://students.gwu.edu/cesa) in The George Washington University.**
 <br><br>
+
+## Policy on th use of Artificial Intelligence (AI) tools for the course
+
+- **The use of Google Gemini and Microsoft Copilot, GWU-apporved AI-based tools will be permitted at the direction of the instructor for specific deliverables or in-class activities for all the students registered in the course.**
+  - For the GWU's Artificial Intelligence (AI) Evaluation & Status you may refer to the link posted here: [https://it.gwu.edu/ai-tools-status](https://it.gwu.edu/ai-tools-status)
+
+- **The use of chatGPT or other non GWU-apporved AI-based tools are  STRICTLY NOT PERMITTED by the instructor unless, the instructor provides prioir approvals for all the students registered in the course.**
+
+<!-- - If there are instances where chatGPT or any other generative AI-based models are allowed they will be explicitly communicated by the instructor on select assignments and programming projects. 
+
+- In all other instances where a course deliverable does not entail permitted use of chatGPT or any other AI-based models, the instructors will have the students sign a disclosure form. This form will require that the students document specific prompts used and the outputs generated.  -->
+
+- **Any violations of the aforementioned policy will be reviewed under the** [Academic Integrity Code](https://students.gwu.edu/code-academic-integrity) and [Student Rights and Responsibities](https://students.gwu.edu/cesa)
+
+Furthermore, the ethical issues regarding the use of chatGPT or any other AI-based models will be discussed in-class and course policy will be amended according to the findings. The findings of any such discussions will be summarized and placed in-context of the [Academic Integrity Code](https://students.gwu.edu/code-academic-integrity)
+
+<br>
+**Resources that will guide the course policy changes during the course:**
+<br>
+
+- <p><a href="https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003" target="_blank" title="Ryan Watkins-Medium">chatGPT Course policy formulation</a></p>
+- <p><a href="https://openai.com/blog/chatgpt/" target="_blank" title="OpenAI portal">chatGPT chatbot</a></p>
+- <p><a href="https://www.socialsciencespace.com/2022/12/how-chatgpt-could-transform-higher-education/" title="chatGPT to transform higher ed">How ChatGPT Could Transform Higher Education</a></p>
+
 
 ## Classroom Policies and Student responsibilities
 <table>
@@ -83,7 +112,7 @@ Grades are "rounded up" to the nearest integer.
   - Listen to the instructor. Keep an open mind to the course material presented. 
   - Limit the use of personal devices. 
   - Be aware that you are working in a group.
-  - Respect each other's opinion during dicusssions.
+  - Respect each other's opinion during dicussions.
 
 - **Be responsible:** 
   - Arrive on time. 
@@ -94,7 +123,7 @@ Grades are "rounded up" to the nearest integer.
   - **Observe, Ask questions and Try** out the materials presented during the course. 
   - Communicate with your team effectively and politely. 
   - An email informing the instructor about your absence is necessary, if you are not planning to attend the lecture and lab session during the course. 
-    - The requests about making up graded-labs or any in-class activities will be considered but with prior initmation and time constraints of the course.
+    - The requests about making up graded-labs or any in-class activities will be considered but with prior intimation and time constraints of the course.
 
 - **Be a problem solver:** 
   - Explore options to complete hands-on tasks. 
@@ -106,12 +135,7 @@ When you need to communicate with us directly regarding extenuating circumstance
 
 - The instructor will check emails on Mondays and may respond at their earliest convenience. 
 
-## Late work policy
-Late work is not accepted, with the following exceptions:
 
-- Extensions will be granted should there arise due to circumstances beyond your control that impede your ability to complete coursework and turn in a deliverable on time. 
-- Notify your professor as soon as feasible in these cases. Examples of such circumstances include (but are not limited to) illness, death in the family, and loss of housing. 
-- To ensure fairness toward all students, the instructor will request documentation of such circumstances.
 
 ## Statement on the classroom activities
 <table>
@@ -135,26 +159,6 @@ Late work is not accepted, with the following exceptions:
  <p> Please let the [instructor](instructor.qmd) know ways to improve the effectiveness of the course. </p>
  <!-- See [JEDI resources](https://www.cs.seas.gwu.edu/justice-equity-diversity-and-inclusion-resources) for student resources. </p> -->
 
-<br><br>
-
-## Use of chatGPT or any other AI-based models for in-class work and deliverables
-**The use of chatGPT or any other generative AI-based models is not permitted by the instructor unless the instructor provides prioir approvals for all the students registered in the course.**
-
-- If there are instances where chatGPT or any other generative AI-based models are allowed they will be explicitly communicated by the instructor on select assignments and programming projects. 
-
-- In all other instances where a course deliverable does not entail permitted use of chatGPT or any other AI-based models, the instructors will have the students sign a disclosure form. This form will require that the students document specific prompts used and the outputs generated. 
-
-- Any violations of the aforementioned policy will be reviewed under the [Academic Integrity Code](https://students.gwu.edu/code-academic-integrity) and [Student Rights and Responsibities](https://students.gwu.edu/cesa)
-
-Furthermore, the ethical issues regarding the use of chatGPT or any other AI-based models will be discussed in-class and course policy will be ammended according to the findings. The findings of any such discussions will be summarized and placed in-context of the [Academic Integrity Code](https://students.gwu.edu/code-academic-integrity)
-
-<br>
-**Resources that will guide the course policy changes during the course:**
-<br>
-
-- <p><a href="https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003" target="_blank" title="Ryan Watkins-Medium">chatGPT Course policy formulation</a></p>
-- <p><a href="https://openai.com/blog/chatgpt/" target="_blank" title="OpenAI portal">chatGPT chatbot</a></p>
-- <p><a href="https://www.socialsciencespace.com/2022/12/how-chatgpt-could-transform-higher-education/" title="chatGPT to transform higher ed">How ChatGPT Could Transform Higher Education</a></p>
 
 <br><br>
 

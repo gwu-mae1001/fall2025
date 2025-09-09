@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -277,7 +306,7 @@ Important
 <p>Welcome to the world of mechanical engineering—a field where imagination meets practical problem-solving to improve the way people live and interact with technology.</p>
 <p>The course is designed to inspire curiosity and develop critical thinking, giving you opportunities to apply mathematics and science to create solutions that matter.</p>
 <p>Whether your interests lie in building renewable energy systems, designing new mechanical devices, or simply understanding how things work, this course will help you build a solid foundation for your future studies and career in engineering.</p>
-<p>By the end of the semester, you will appreciate both the exciting possibilities and the responsibilities that come with being a mechanical engineer</p>
+<p>By the end of the semester, you will appreciate both the exciting possibilities and the responsibilities that come with being a mechanical engineer.</p>
 <p><!-- "float: left;  --> <img src="./images/noun-machine-to-machine-7982019.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;"><br> <!-- <p><font size="1">IoT by Alla Zaleuska from <a href="https://thenounproject.com/browse/icons/term/iot/" target="_blank" title="IoT Icons">Noun Project</a></font></p> --></p>
 <p>
 <font size="1">machine to machine by miftakhudin from <a href="https://thenounproject.com/browse/icons/term/machine-to-machine/" target="_blank" title="machine to machine Icons">Noun Project</a> (CC BY 3.0)</font>
@@ -286,8 +315,8 @@ Important
 <p>As first-year mechanical engineering students, you are about to embark on a dynamic journey that introduces the essentials of mechanics, materials, energy, and design.</p>
 <ul>
 <li><p>Throughout this course, you will learn not only by studying foundational principles, but also by working in teams on hands-on projects that mirror real engineering challenges faced in industry and research.</p></li>
-<li><p>You will be exposed to designing, 3D priting and assembling with sensors and automation in unique “microLab” environment that includes the Raspberry Pi (single-board computer) and Python programming language.</p></li>
-<li><p>Video Recordings: Class sessions will generally not be recorded due to the interactive and hands on nature of the course. If any lectures are recorded or prerecorded, they will be posted on Blackboard or the course webpage and available to all members of the class.</p></li>
+<li><p>You will be exposed to designing, 3D printing and assembling with sensors and automation in a unique “micro-Lab” (or <span class="math inline">\(\mu\)</span>-Lab) environment that includes the Raspberry Pi (single-board computer), and Python programming language.</p></li>
+<li><p>Video Recordings: Class sessions will generally not be recorded due to the interactive and hands-on nature of the course. If any lectures are recorded or prerecorded, they will be posted on Blackboard or the course webpage and available to all members of the class.</p></li>
 </ul>
 <!-- ::: {.callout-note}
 Note that there are five types of callouts, including:

@@ -116,7 +116,7 @@ Confirm the successful installation by viewing the Thonny screen window.
 
 Congratulations! Thonny is successfully installed on your Windows computer. 
 
-Begin your coding journey with Thonny, and for additional guidance, consult the official documentation at [https://docs.thonny.org/](https://docs.thonny.org/). 
+Start coding with Thonny, and if you need more guidance, consult the official documentation at [https://github.com/thonny/thonny/wiki](https://github.com/thonny/thonny/wiki). 
 
 If you encounter any issues or have questions, feel free to seek assistance from the Thonny community or refer to the documentation for troubleshooting tips.
 

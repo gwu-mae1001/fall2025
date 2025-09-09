@@ -70,7 +70,7 @@ The course is designed to inspire curiosity and develop critical thinking, givin
 
 Whether your interests lie in building renewable energy systems, designing new mechanical devices, or simply understanding how things work, this course will help you build a solid foundation for your future studies and career in engineering. 
 
-By the end of the semester, you will appreciate both the exciting possibilities and the responsibilities that come with being a mechanical engineer
+By the end of the semester, you will appreciate both the exciting possibilities and the responsibilities that come with being a mechanical engineer.
 
  <!-- "float: left;  -->
  <img src="/images/noun-machine-to-machine-7982019.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
@@ -86,9 +86,9 @@ As first-year mechanical engineering students, you are about to embark on a dyna
 
 - Throughout this course, you will learn not only by studying foundational principles, but also by working in teams on hands-on projects that mirror real engineering challenges faced in industry and research. 
 
-- You will be exposed to designing, 3D priting and assembling with sensors and automation in unique “microLab” environment that includes the Raspberry Pi (single-board computer) and Python programming language. 
+- You will be exposed to designing, 3D printing and assembling with sensors and automation in a unique “micro-Lab” (or $\mu$-Lab) environment that includes the Raspberry Pi (single-board computer), and Python programming language. 
 
-- Video Recordings: Class sessions will generally not be recorded due to the interactive and hands on nature of the course. If any lectures are recorded or prerecorded, they will be posted on Blackboard or the course webpage and available to all members of the class.
+- Video Recordings: Class sessions will generally not be recorded due to the interactive and hands-on nature of the course. If any lectures are recorded or prerecorded, they will be posted on Blackboard or the course webpage and available to all members of the class.
 
 <!-- ::: {.callout-note}
 Note that there are five types of callouts, including:

@@ -43,7 +43,7 @@ Open your web browser and go to the RealVNC website at [https://www.realvnc.com/
 
 ## Installation Steps
 
-### 0. Download the installation file **[here](/Downloads/VNC-Viewer-7.12.1-Windows.exe)**
+### 0. Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
 
 
 ### 1. Install VNC Viewer
@@ -95,7 +95,7 @@ If prompted to Log in/Sign Up hit "Cancel", you're **<u>NOT REQUIRED</u>** to si
 
 Congratulations! You have successfully installed and set up RealVNC Viewer on your Windows machine, allowing you to access and control remote computers with ease.
 
-For more information and support, you can visit the [RealVNC FAQa](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=pXE00z561iP1&lai_sr=0-4&lai_sl=l&lai_p=1).
+For more information and support, you can visit the [RealVNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=pXE00z561iP1&lai_sr=0-4&lai_sl=l&lai_p=1).
 
 If you encounter any issues or have questions, please refer to the RealVNC support resources for assistance.
 

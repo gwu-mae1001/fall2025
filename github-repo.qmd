@@ -102,7 +102,7 @@ Before you begin, ensure you have the following:
 
 ### 6. Type a ``Commit message`` and ``Commit changes``
 
-- In Git and GitHub, it is very uesful to type up a ``Commit message`` that briefly describes the changes or the saved file. 
+- In Git and GitHub, it is very useful to type up a ``Commit message`` that briefly describes the changes or the saved file. 
 - Click on ``Commit changes`` once done and the ``Commit message`` will be associated with saved or committed file.
 
 ![``Commit message``and finally ``Commit changes``](images/create-github-repo/Step5.png)

@@ -51,7 +51,7 @@ Click on the "Download" button under the macOS section depending on you System-o
 ### 3. Run the Installer
 
 - Locate the downloaded file (usually in your "Downloads" folder).
-- Double-click the Anaconda disk image (`.dmg`) file to open it and click on "Allow" when prompted.
+- Double-click the Anaconda disk image (`.dmg` or `.pkg`) file to open it and click on "Allow" when prompted.
 
 ![Run Installer](images/screenshots/anaconda-mac/screenshot-2.png)
 
@@ -108,7 +108,7 @@ To verify the installation launch a local Jupyter Server by clicking on the "lau
 
 ![Launch Jupyter Server](images/screenshots/anaconda-mac/screenshot-14.png)
 
-You should see a terminal open and the Jupyter Notebbok server launched in a browser window.
+You should see a terminal open and the Jupyter Notebook server launched in a browser window.
 
 ![Jupyter Server Launched](images/screenshots/anaconda-mac/screenshot-15.png)
 

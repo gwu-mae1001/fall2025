@@ -111,7 +111,7 @@ To verify the installation launch a local Jupyter Server by clicking on the "lau
 
 ![Launch Jupyter Server](images/screenshots/anaconda-mac/screenshot-14.png)
 
-You should see a Jupyter Notebbok server launched in a browser window.
+You should see a Jupyter Notebook server launched in a browser window.
 
 ![Jupyter Server Launched](images/screenshots/anaconda-windows/screenshot-13.png)
 

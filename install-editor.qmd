@@ -27,7 +27,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 :::{.callout-important}
 **READ ME before you start installations on your personal computer:**
 
-- The course is desinged with active learning modules with limited number of hardware components. It is required that these software be installed and working on your computers so that you may connect to the hardware provided and execute programs effectively. 
+- The course is designed with active learning modules with a limited number of hardware components. It is required that these softwares be installed and working on your computers so that you may connect to the hardware provided and execute programs effectively. 
 
 - You are strongly encouraged to bring your own personal machine or laptop and participate with the [prerequisites](install-editor.qmd) installed.
 
@@ -71,7 +71,7 @@ Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_
 <!-- - **Do I need to license the software?** -->
 <!-- No. VNC &reg; Viewer is always free to use. Just accept the EULA the first time you run. -->
 
-<!-- Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&lai_sr=10-14&lai_sl=l&lai_p=1) --> -->
+<!-- Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&lai_sr=10-14&lai_sl=l&lai_p=1) --> 
 
 
 <!-- ## *What is an Editor?*
@@ -86,7 +86,7 @@ In the world of programming, an editor is more than just a text processor. It's 
 
 - **Integrated Development Environments (IDEs)**: Some editors, such as Visual Studio Code (VS Code), go beyond text editing and offer a complete integrated development environment with debugging capabilities, version control integration, and more.
 
-- **Collaboration**: Many editors support collaborative coding, allowing multiple programmers to work on the same codebase simultaneously, which is crucial for group projects.
+- **Collaboration**: Many editors support collaborative coding, allowing multiple programmers to work on the same codebase simultaneously, which is crucial for group projects. -->
 
 <!-- In your CSCI1010 class, you'll use a combination of Anaconda, Jupyter, and VS Code:
 
@@ -94,11 +94,12 @@ In the world of programming, an editor is more than just a text processor. It's 
 
 - **Jupyter**: Jupyter Notebook is an interactive environment that enables you to create and share documents containing live code, equations, visualizations, and narrative text. It's an excellent choice for data analysis and presenting your findings.
 
-- **VS Code**: Visual Studio Code (VS Code) is a versatile code editor that supports multiple programming languages and offers a rich ecosystem of extensions. Its user-friendly interface and powerful features make it a great choice for general programming tasks. --> 
+- **VS Code**: Visual Studio Code (VS Code) is a versatile code editor that supports multiple programming languages and offers a rich ecosystem of extensions. Its user-friendly interface and powerful features make it a great choice for general programming tasks. 
+-->
 
 
 # Installation instructions 
-The following installation are required on your personal computers to move forward in this course amd need to be completed on first meeting day: 
+The following installations are required on your personal computers to move forward in this course and need to be completed on the first meeting day: 
 
 
 ### **Select an option appropriate for your operating system**
@@ -109,11 +110,11 @@ The following installation are required on your personal computers to move forwa
 <!-- - **Step 1**: [Install Anaconda for Mac](anaconda-mac.qmd) -->
 
 - **Step 1:** Install Real VNC Viewer for Mac OS 12+
-  - Donwload the installation file **[here](/downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)**
+  - Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)**
   - Follow installation instructions **[here](realvnc-mac.qmd)**
 
 - **Step 2:** Install Thonny Python
-  - Donwload the installation file **[here](/downloads/thonny-4.1.7.pkg)**
+  - Download the installation file **[here](/downloads/thonny-4.1.7.pkg)**
   - Follow installation instructions- **[Thonny Python IDE for macOS](thonny-mac.qmd)**  
 
 - **Step 3:** Download and install **[Anaconda for macOS](anaconda-mac.qmd)**  
@@ -125,8 +126,8 @@ The following installation are required on your personal computers to move forwa
   - Follow installation instructions to check your git-installation **[here](git-mac.qmd)** 
 
 - **Step 6:** Create a GitHub account 
-  - If you already have a GitHub account you may skipt this step
-  - Othewrise, follow instructions **[here](github-acct.qmd)**
+  - If you already have a GitHub account you may skip this step
+  - Otherwise, follow instructions **[here](github-acct.qmd)**
 
 - **Step 7:** Create a GitHub repo
   - Follow instructions **[here](github-repo.qmd)**
@@ -147,11 +148,11 @@ The following installation are required on your personal computers to move forwa
 <!-- - **Step 1**: [Install Anaconda for Windows](anaconda-windows.qmd) -->
 
 - **Step 1:** Install Real VNC Viewer for Windows 10+
-  - Donwload the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
+  - Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
   - Follow installation instructions **[here](realvnc-windows.qmd)**
 
 - **Step 2:** Install Thonny Python
-  - Donwload the installation file **[here](/downloads/thonny-4.1.7.exe)**
+  - Download the installation file **[here](/downloads/thonny-4.1.7.exe)**
   - Follow installation instructions- **[Thonny Python IDE for Windows](thonny-windows.qmd)**
 
 - **Step 3:** Download and install **[Anaconda for Windows](anaconda-windows.qmd)**  
@@ -162,8 +163,8 @@ The following installation are required on your personal computers to move forwa
   - Follow installations instructions **[here](git-windows.qmd)**
 
 - **Step 6:** Create a GitHub account 
-  - If you already have a GitHub account you may skipt this step
-  - Othewrise, follow instructions **[here](github-acct.qmd)**
+  - If you already have a GitHub account you may skip this step
+  - Otherwise, follow instructions **[here](github-acct.qmd)**
 
 - **Step 7:** Create a GitHub repo
   - Follow instructions **[here](github-repo.qmd)**
@@ -221,13 +222,13 @@ Source: [Wiki](https://en.wikipedia.org/wiki/RealVNC)
 
  - **How do I install VNC&reg; Viewer?**
 
-Just run the installer on the device you want to control from and follow the instructions, or there’s MSIs for remote deployment under Windows. If you don’t have permission to install VNC® Viewer on desktop platforms, choose the standalone option.
+Just run the installer on the device you want to control from and follow the instructions, or there are MSIs for remote deployment under Windows. If you don’t have permission to install VNC® Viewer on desktop platforms, choose the standalone option.
 
 Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&lai_sr=10-14&lai_sl=l&lai_p=1)
 
 - **How do I control a remote computer?**
 
-If you have a keyboard and mouse in front of you, use them as you would normally. We don't recommed the use of a mobile device for this workshop. However, if you’re on a mobile device, then your touchscreen acts as a mouse trackpad, with gestures mapped to mouse buttons. 
+If you have a keyboard and mouse in front of you, use them as you would normally. We don't recommend the use of a mobile device for this workshop. However, if you’re on a mobile device, then your touchscreen acts as a mouse trackpad, with gestures mapped to mouse buttons. 
 
 Source: [Real VNC FAQs](https://www.realvnc.com/en/connect/download/viewer/?lai_vid=1jMrlad4GSrl&lai_sr=10-14&lai_sl=l&lai_p=1)
 

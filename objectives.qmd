@@ -31,7 +31,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 4. Work in collaborative teams to analyze engineering problems.
 5. Experience engineering by using CAD modeling software, dissecting devices and examining how they function.
 6. Gain basic, hands-on knowledge of Raspberry Pi hardware with Python programming language.
-7. Gain insight on sesnors and automation and, edge computing strategies with the Raspberry Pi.
+7. Gain insight on sensors and automation and, edge computing strategies with the Raspberry Pi.
 8. Implement one Raspberry Pi-based measurement and automation system.
 <!-- 8. Gain exposure to IoT automation platforms such as ThingSpeak  -->
 <!-- 5. Gain insight on edge computing strategies with the Raspberry Pi -->

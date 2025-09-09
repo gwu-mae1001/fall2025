@@ -27,7 +27,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 
 :::{.callout-important}
 - The attached course outline is subject to change depending on the pace of the class. 
-- The course is desinged with active learning modules with limited number of hardware components. 
+- The course is designed with active learning modules with limited number of hardware components. 
 - Pay attention to the weekly activities where laptop requirements are mentioned clearly.
 <!-- - You are strongly encouraged to bring your own personal machine or laptop and participate with the [prerequisites](install-editor.qmd) installed.
  - Follow the instructions provided carefully and complete the required installations needed for this workshop. ([See prerequisites](install-editor.qmd))
@@ -114,7 +114,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td><ul>
                 <li><strong>Pixels & Python: Ignite Your Image Processing Journey!</strong> [Basics of Image Processing]</li>  
                 <li><strong>Raspberry Pi: Camera and Face Detection</strong></li>      
-                <li><strong>Dissect a Disposable Camera</strong> Your Second dissembly</li>     
+                <li><strong>Dissect a Disposable Camera</strong> Your first disassembly</li>     
             </td>            
             <td>TBA</td>
         </tr>        
@@ -130,7 +130,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td><ul>
                 <li><strong>Python Pandas Party: Turning Data into Decisions!</strong> [Basics of datafranmes]</li>  
                 <li><strong>Raspberry Pi: Actuators</strong></li>  
-                <li><strong>Dissect a Cordless Screwdriver</strong> Your first dissembly</li>                
+                <li><strong>Dissect a Cordless Screwdriver</strong> Your second disassembly</li>                
             </td>            
             <td>TBA</td>
         </tr>             
@@ -175,11 +175,11 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td style="color: red;">12/09</td>             
             <td colspan="4" style="color: red;" style="text-align: center;">Designated Thursday</td>
         </tr>    -->
-        <tr class="table-info">
+        <!-- <tr class="table-info">
             <td> </td>
             <td style="color: red;">12/10</td>             
             <td colspan="4" style="color: red;" style="text-align: center;">Designated Friday</td>
-        </tr>           
+        </tr>            -->
         <tr class="table-info">
             <td> </td>
             <td style="color: red;">12/11</td>             
