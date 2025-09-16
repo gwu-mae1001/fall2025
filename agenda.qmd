@@ -163,7 +163,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
         <tr>            
             <td>7: 12/01 to 12/07</td>
             <td>12/10</td>            
-            <td colspan="3"><strong>Thrust Into Tomorrow: MAE Student Speak Out</strong> [Discuss the life in MAE department with the student panelists]</td>        
+            <td colspan="3"><strong>Thrust Into Tomorrow: MAE Students Speak Out</strong> [Discuss the life in MAE department with the student panelists]</td>        
         </tr>    
         <!-- <tr class="table-info">
             <td> </td>
