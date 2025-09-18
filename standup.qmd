@@ -43,6 +43,27 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
   </tr>
 </table>
 
+## Leonardo Borchert
+<div id="marc-berthin"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Leonardo Borchert** is a Mechanical and Aerospace Engineering student at the George Washington University. As Propulsion Division Lead for the GW Rocket Team and a three-time NIST CHIPS Act fellow, his work spans advanced propulsion and semiconductor research. He aspires to pioneer next-generation aerospace systems through industry and entrepreneurship. 
+
+
+      **Email**: <a href="mailto:leoborchert@gwu.edu">mleoborchert@gwu.edu</a>
+
+      [**LinkedIn**](https://www.linkedin.com/in/leonardo-borchert-993212260/)
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/LeonardoBorchert_Headshot.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+
 ## Sarah Levine
 <div id="sarah-levine"></div>
 
