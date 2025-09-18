@@ -24,9 +24,45 @@ format:
 Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
+## Marc-Andre Berthin
+<div id="marc-berthin"></div>
 
+<table>
+  <tr>
+    <td width="70%">
+      Hey everyone, my name is **Marc-Andre Berthin** and I am a senior MAE student passionate about advancing space technology! At GW, I have been involved with undergraduate research and several orgs such as CubeSat and SEASSPAN. Outside of academics, I enjoy watching/playing soccer and football, traveling, and studying geography!
 
-## Marlee Alvino
+      **Email**: <a href="mailto:maberthin22@gwmail.gwu.edu">maberthin22@gwmail.gwu.edu</a>
+
+      [**LinkedIn**](https://www.linkedin.com/in/marcandreberthin/)
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/MAB_Headshot.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+## Sarah Levine
+<div id="sarah-levine"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      {{< lipsum >}}
+
+      **Email**: <a href="mailto:slevine15@gwmail.gwu.edu">slevine15@gwmail.gwu.edu</a>
+
+      <!-- [**LinkedIn**](https://www.linkedin.com/in/marcandreberthin/) -->
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/GWU_Logo.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+<!-- ## Marlee Alvino
 <div id="marlee-alvino"></div>
 
 <table>
@@ -41,10 +77,10 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       <img src="/guest-speakers/marlee.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
-## Samantha Kusner
+<!-- ## Samantha Kusner
 <div id="samantha-kusner"></div>
 
 <table>
@@ -59,10 +95,10 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       <img src="/guest-speakers/samantha.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
-## Kate Halushka
+<!-- ## Kate Halushka
 <div id="kate-halushka"></div>
 
 <table>
@@ -77,9 +113,9 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       <img src="/guest-speakers/kate.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
-## Josie Libbon
+<!-- ## Josie Libbon
 <div id="josie-lisbon"></div>
 
 <table>
@@ -94,9 +130,9 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       <img src="/guest-speakers/josie.jpeg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
-## Ryah Carpenter
+<!-- ## Ryah Carpenter
 <div id="rayh-carpenter"></div>
 
 <table>
@@ -111,10 +147,10 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       <img src="/guest-speakers/ryah.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
-## Lindsey Cicero
+<!-- ## Lindsey Cicero
 <div id="lindsey-cicero"></div>
 
 <table>
@@ -129,9 +165,9 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       <img src="/guest-speakers/lindsey.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
-## Clare Jenney
+<!-- ## Clare Jenney
 <div id="clare-jenney"></div>
 
 <table>
@@ -146,7 +182,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
       <img src="/guest-speakers/clare.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- <br><br>
 <footer>

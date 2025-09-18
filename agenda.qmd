@@ -91,7 +91,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>10/31</td>            
             <td><ul>
                 <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
-                <li><strong>Faculty spotlight talk</strong></li>
+                <li><strong>Spotlight talk by Sumner Gubisch, PhD Candidate, MAE Department</strong></li>
                 <!-- <li>MAE Advising by Jonathan Yoo</li> -->
                 <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
             </td>          
@@ -107,7 +107,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>11/07</td>   
             <td><ul>
                 <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
-                <li><strong>Faculty spotlight talk</strong></li>
+                <li><strong>Faculty spotlight talk by Prof. Peng Wei</strong></li>
                 <!-- <li>MAE Advising by Jonathan Yoo</li> -->
                 <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
             </td>                     
@@ -123,7 +123,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>11/14</td>  
             <td><ul>
                 <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
-                <li><strong>Faculty spotlight talk</strong></li>
+                <li><strong>Faculty spotlight talk by Prof. Matt Rau</strong></li>
                 <!-- <li>MAE Advising by Jonathan Yoo</li> -->
                 <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
             </td> 
@@ -139,7 +139,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>11/21</td>            
             <td><ul>
                 <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
-                <li><strong>Faculty spotlight talk</strong></li>
+                <li><strong>Faculty spotlight talk by Prof. Azar Panah</strong></li>
                 <!-- <li>MAE Advising by Jonathan Yoo</li> -->
                 <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
             </td> 
