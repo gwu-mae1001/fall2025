@@ -24,6 +24,26 @@ format:
 Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
+## Dominic Savarino
+<div id="marc-berthin"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Dominic Savarino (BS ‘25, MS ‘26)** is a MAE teaching assistant and graduate student studying robotics and controls. While an undergraduate at GW, he completed internships with PennDOT, Space Telescope Science Institute, and GW Intelligent Aerospace Systems Lab, studied abroad, and was a part of organizations such as Clark Scholars, SEASSPAN, ASME, and Pi Tau Sigma.
+
+
+      **Email**: <a href="mailto:dsavarino@email.gwu.edu">dsavarino@email.gwu.edu</a>
+
+      [**LinkedIn**](https://www.linkedin.com/in/dominic-savarino/)
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/DominicSavarino_Headshot.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
 ## Marc-Andre Berthin
 <div id="marc-berthin"></div>
 
@@ -63,6 +83,25 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
   </tr>
 </table>
 
+## Kaan Tastan
+<div id="marc-berthin"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+    **Kaan Tastan** is a senior Mech.E. student at GWU and President of the ASME student chapter. In Professor Bardet’s Thermo-Fluids Lab, he designs auxiliary systems for the BPF water flow loop. He has also led dual-stage rocketry projects. After graduation, he will commission as a U.S. Navy Nuclear Submarine Officer.
+
+
+      **Email**: <a href="mailto:kaantastan@gwu.edu">kaantastan@gwu.edu</a>
+
+      [**LinkedIn**](https://www.linkedin.com/in/kaan-tastan/)
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/KaanTastan_Headshot.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ## Sarah Levine
 <div id="sarah-levine"></div>
