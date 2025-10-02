@@ -24,6 +24,66 @@ format:
 Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.
 :::
 
+## Grace Welsh
+<div id="marc-berthin"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Hi! I am Grace Welsh**. I am a senior studying MAE and I am a Presidential Scholar at GWU. I have worked in composite material testing, design and manufacturing. I am a part of the rocket team (aerostructures), SEASSPAN, A.O.E. (Alpha Omega Epsilon), and I am a student research assistant with Professor Panah.
+
+
+      **Email**: <a href="mailto:gracewelsh27@gwmail.gwu.edu">gracewelsh27@gwmail.gwu.edu</a>
+
+      [**LinkedIn**](https://www.linkedin.com/in/grace-welsh-384b7326a/)
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/GraceWelsh_Headshot.jpeg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+## Sarah Levine
+<div id="sarah-levine"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Greetings, my name is Sarah Levine.** I am a senior MAE/aerospace engineering major and a geological sciences minor. I have worked in Professor Keidar’s lab developing vacuum-arc thrusters since freshman year and am part of the Clark Scholars program. My other activities include volunteering for SEAS information sessions and community service outside GW. I enjoy building things, rocks, drawing and painting, and video games.
+
+      **Email**: <a href="mailto:slevine15@gwmail.gwu.edu">slevine15@gwmail.gwu.edu</a>
+
+      <!-- [**LinkedIn**](https://www.linkedin.com/in/sarah-levine-168b1926a/) -->
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/SarahLevine_Headshot.jpg" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+## Luis Soto Moyers 
+ <div id="marc-berthin"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      **Luis Soto Moyers** is a fourth-year Mechanical and Aerospace Engineering student at the George Washington University, working in the Thermo-Fluids Laboratory. He has experience in experimental research, engineering design, and programming. Luis serves as President of SHPE, is a Theta Tau alum, and is fluent in English and Spanish.
+
+
+      **Email**: <a href="mailto:lsotomoyers26@gwmail.gwu.edu">lsotomoyers26@gwmail.gwu.edu</a>
+
+      [**LinkedIn**](https://www.linkedin.com/in/dominic-savarino/)
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/LuisSotoMoyers_Headshot.JPG" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
+
 ## Dominic Savarino
 <div id="marc-berthin"></div>
 
@@ -103,24 +163,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
   </tr>
 </table>
 
-## Sarah Levine
-<div id="sarah-levine"></div>
 
-<table>
-  <tr>
-    <td width="70%">
-      {{< lipsum >}}
-
-      **Email**: <a href="mailto:slevine15@gwmail.gwu.edu">slevine15@gwmail.gwu.edu</a>
-
-      <!-- [**LinkedIn**](https://www.linkedin.com/in/marcandreberthin/) -->
-    </td>
-
-    <td width="30%">
-      <img src="/guest-speakers/GWU_Logo.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
-    </td>
-  </tr>
-</table>
 
 <!-- ## Marlee Alvino
 <div id="marlee-alvino"></div>

@@ -100,10 +100,10 @@ You have successfully installed Python, configured the user-specific Python bin 
 Happy coding!
 
 
-<br><br>
+<!-- <br><br>
 <footer>
   <p><small><small><small><small>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
   Author: Kartik Bulusu<br>
   Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
-  &copy; 2023 All rights reserved</small></small></small></small></p>
-</footer>
+  &copy; 2025 All rights reserved</small></small></small></small></p>
+</footer> -->
