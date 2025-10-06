@@ -63,8 +63,27 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
   </tr>
 </table>
 
+## Julia McGillivray
+<div id="julia-mcgillivray"></div>
+
+<table>
+  <tr>
+    <td width="70%">
+      Hi, my name is **Julia McGillivray**! My experience and interests lie in aerodynamic and fluid analysis. I interned at Draper over the summer, gaining real-world project experience in aerospace, and am staying on part-time for the year! I joined Design-Build-Fly this year, and was on Engineers without Borders for two years. I also work in the admissions office, representing my experience with the MAE department here. I am also a Presidential Scholar at The George Washington University.
+
+      **Email**: <a href="mailto:julia_mcg26@gwmail.gwu.edu">julia_mcg26@gwmail.gwu.edu</a>
+
+      <!-- [**LinkedIn**](https://www.linkedin.com/in/julia-mcgillivray/) -->
+    </td>
+
+    <td width="30%">
+      <img src="/guest-speakers/JuliaMcGillivray_Headshot.png" alt="uta" style="object-fit:contain width:300px;height:300px; margin-right: 10px;" />
+    </td>
+  </tr>
+</table>
+
 ## Luis Soto Moyers 
- <div id="marc-berthin"></div>
+ <div id="luis-soto-moyers"></div>
 
 <table>
   <tr>
@@ -85,7 +104,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 
 
 ## Dominic Savarino
-<div id="marc-berthin"></div>
+<div id="dominic-savarino"></div>
 
 <table>
   <tr>
@@ -124,7 +143,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 </table>
 
 ## Leonardo Borchert
-<div id="marc-berthin"></div>
+<div id="leonardo-borchert"></div>
 
 <table>
   <tr>
@@ -144,7 +163,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 </table>
 
 ## Kaan Tastan
-<div id="marc-berthin"></div>
+<div id="kaan-tastan"></div>
 
 <table>
   <tr>
