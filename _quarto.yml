@@ -39,6 +39,8 @@ website:
         text: Learning Objectives  
       - href: agenda.qmd
         text: Schedule
+      - href: standup.qmd
+        text: Student Panel        
       # - href: standup.qmd
       #   text: Student Panelists   
       # - href: guests.qmd

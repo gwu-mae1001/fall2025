@@ -54,7 +54,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 
       **Email**: <a href="mailto:slevine15@gwmail.gwu.edu">slevine15@gwmail.gwu.edu</a>
 
-      <!-- [**LinkedIn**](https://www.linkedin.com/in/sarah-levine-168b1926a/) -->
+      [**LinkedIn**](https://www.linkedin.com/in/sarah-levine-168b1926a/)
     </td>
 
     <td width="30%">
@@ -69,11 +69,11 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 <table>
   <tr>
     <td width="70%">
-      Hi, my name is **Julia McGillivray**! My experience and interests lie in aerodynamic and fluid analysis. I interned at Draper over the summer, gaining real-world project experience in aerospace, and am staying on part-time for the year! I joined Design-Build-Fly this year, and was on Engineers without Borders for two years. I also work in the admissions office, representing my experience with the MAE department here. I am also a Presidential Scholar at The George Washington University.
+      **Hi, my name is Julia McGillivray**! My experience and interests lie in aerodynamic and fluid analysis. I interned at Draper over the summer, gaining real-world project experience in aerospace, and am staying on part-time for the year! I joined Design-Build-Fly this year, and was on Engineers without Borders for two years. I also work in the admissions office, representing my experience with the MAE department here. I am also a Presidential Scholar at The George Washington University.
 
       **Email**: <a href="mailto:julia_mcg26@gwmail.gwu.edu">julia_mcg26@gwmail.gwu.edu</a>
 
-      <!-- [**LinkedIn**](https://www.linkedin.com/in/julia-mcgillivray/) -->
+      [**LinkedIn**](https://www.linkedin.com/in/julia-mcgillivray/)
     </td>
 
     <td width="30%">
