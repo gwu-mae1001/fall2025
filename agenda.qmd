@@ -72,7 +72,14 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                     <li>Software Installation Clinic</li>    
                 </ul>
             </td>            
-            <td><strong>Complete all installations on 10/17</strong> and enter into a raffle</td>      
+            <td>
+                <strong>Complete all installations on 10/17</strong> and enter into a raffle
+                <!-- <ul><strong>Download:</strong>
+                        <li>requirements.txt</li>
+                        <li>power_chord.py</li>
+                        <li>power_chord_dash.py</li>
+                </ul>        -->
+            </td>     
         </tr>
 
         <tr class="table-active">
