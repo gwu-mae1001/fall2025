@@ -68,7 +68,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             </td>                      
             <td>
                 <ul>
-                    <li><strong>Foundations of Python in Mechanical Engineering--The "Power Chords" Approach</strong></li>  
+                    <li><strong>Foundations of Python--The "Power Chords" Approach</strong></li>  
                     <li>Software Installation Clinic</li>    
                 </ul>
             </td>            
