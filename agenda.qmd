@@ -62,7 +62,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 <ul>
                     <li><strong>What to expect in MAE1001</strong></li>
                     <li><strong>Introduction to the Instruction Team</strong></li>
-                    <li><strong>MAE Advising</strong> by <a href="https://engineering.gwu.edu/jonathan-yoo" target="_blank">Jonathan Yoo</a>, Senior Academic Advisor</li> 
+                    <li><strong><a href="/downloads/Yoo_SEASAdvising/FYAdvising_RegistrationWorkshop-Fall2025.pdf" target="_blank"> MAE Advising</strong> </a>by <a href="https://engineering.gwu.edu/jonathan-yoo" target="_blank">Jonathan Yoo</a>, Senior Academic Advisor</li> 
                     <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
                 </ul>   
             </td>                      
