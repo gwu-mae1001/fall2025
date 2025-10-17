@@ -38,9 +38,6 @@ Before you start, make sure you have the following:
 3. Adequate disk space for the installation.
 
 
-8.	You will be automatically logged into the remote computer and will see your desktop being set up. Please wait for one minute while your desktop loads.
-
-
 ## Installation Steps
 
 ### 1. Connect to the GW VPN.

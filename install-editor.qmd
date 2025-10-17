@@ -141,6 +141,7 @@ The following installations are required on your personal computers to move forw
 - **Step 9:** Connect to a GWU Computing lab computer 
   - Follow installation instructions **[here](remote-access-mac.qmd)**    
 
+- **Step 10:** Note: SolidWorks cannot be installed on MacOS computers. MacOS users can remotely connect to a GWU Computing Lab computer and access it.
 <!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
   - This step requires Step 2 to be completed as some codes involving web applications may work better on the Chrome browser.
   - Follow the steps on this page [**ThingSpeak**](thingspeak.qmd) to finish account creation. -->
@@ -182,6 +183,9 @@ The following installations are required on your personal computers to move forw
 
 - **Step 9:** Connect to a GWU Computing lab computer 
   - Follow installation instructions **[here](remote-access-windows.qmd)**  
+
+- **Step 10:** Install SolidWorks for Windows (Optional)
+  - Follow installation instructions **[here](solidworks-windows.qmd)**   
 
 <!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
   - This step requires Step 2 to be completed as some codes involving web applications may work better on the Chrome browser.
