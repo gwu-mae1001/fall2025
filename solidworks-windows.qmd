@@ -40,7 +40,7 @@ Before you start, make sure you have the following:
 ## Installation Steps
 
 ### 1. Download the Installation File
-Click on this [link](https://drive.google.com/drive/folders/1VF5Be8xzITPE5v0tttCsvVKY8HgmoVaZ?usp=share_link) to access the folder where the software installation file is hosted. Download the file.
+Click on this link [https://drive.google.com/drive/folders/1VF5Be8xzITPE5v0tttCsvVKY8HgmoVaZ?usp=share_link](https://drive.google.com/drive/folders/1VF5Be8xzITPE5v0tttCsvVKY8HgmoVaZ?usp=share_link) to access the folder where the software installation file is hosted. **Download the file.**
 <!-- ![Visit Official Website](/thonny-mac/Step_1.png) -->
 
 ### 1.1. Proceed to Step 2 if you successfully downloaded the file. Complete this step otherwise!
@@ -53,7 +53,7 @@ Click on this [link](https://drive.google.com/drive/folders/1VF5Be8xzITPE5v0tttC
 - Proceed to the Step 2
 
 ### 2. Run the Solidworks setup file.
-It is usually found in your '*Downloads*' folder. Unzip the file if required [Image: Windows Step 1, 2]
+It is usually found in your '*Downloads*' folder. Unzip the file if required.
 
 ![Locate Solidworks setup file](/solidworks/Windows_Step1.png)
 
