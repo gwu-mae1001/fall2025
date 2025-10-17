@@ -29,17 +29,12 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 
 <img src="/images/noun-exam-3617082_copy.png" alt="exam icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br><p><font size="1">exam by pongsakorn from <a href="https://thenounproject.com/browse/icons/term/exam/" target="_blank" title="exam Icons">Noun Project</a></font></p>
 
-- **Homework** 15%
-- **Classwork** 35%
-- **Weekly Labs and Reports** 20%
-- **Final Project** 30% 
-<!-- - **Lab 0:** 10%
-- **Lab 1:** 10%
-- **Lab 2:** 10%
-- **Lab 3:** 10%
-- **Lab 4:** 10%
-- **Recitation Problems:** 30%
-- **Ethics poster/assignments:** 20% [Note: Gradiing rubric for the poster presentation will be provided to the students] -->
+- **Homework** 25%
+- **In-class hands-on work, &mu;-labs and other classwork** 50%
+- **Reports and presentations** 20%
+- **Attendance** 5% (will be given awarded to the students who attended all sesssions in MAE1001)
+
+**Note:** The above grading breakdown is subject to change during the course for the benefit of the students.
 
 ## Grading Scale (subject to change during Fall 2025)
 
