@@ -138,6 +138,9 @@ The following installations are required on your personal computers to move forw
 - **Step 8:** Download and install **[Chrome web browser](https://www.google.com/chrome/browser-tools/)**
   - Skip this step if you already have Chrome installed on your laptop.
 
+- **Step 9:** Connect to a GWU Computing lab computer 
+  - Follow installation instructions **[here](remote-access-mac.qmd)**    
+
 <!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
   - This step requires Step 2 to be completed as some codes involving web applications may work better on the Chrome browser.
   - Follow the steps on this page [**ThingSpeak**](thingspeak.qmd) to finish account creation. -->
@@ -176,6 +179,9 @@ The following installations are required on your personal computers to move forw
 
 - **Step 8:** Download and install **[Chrome web browser](https://www.google.com/chrome/browser-tools/)**
   - Skip this step if you already have Chrome installed on your laptop.
+
+- **Step 9:** Connect to a GWU Computing lab computer 
+  - Follow installation instructions **[here](remote-access-windows.qmd)**  
 
 <!-- - **Step 8:** Create a **free [ThingSpeak](https://thingspeak.com/login?skipSSOCheck=true) account**
   - This step requires Step 2 to be completed as some codes involving web applications may work better on the Chrome browser.
