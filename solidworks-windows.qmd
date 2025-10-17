@@ -40,7 +40,9 @@ Before you start, make sure you have the following:
 ## Installation Steps
 
 ### 1. Download the Installation File
-Click on this link [https://drive.google.com/drive/folders/1VF5Be8xzITPE5v0tttCsvVKY8HgmoVaZ?usp=share_link](https://drive.google.com/drive/folders/1VF5Be8xzITPE5v0tttCsvVKY8HgmoVaZ?usp=share_link) to access the folder where the software installation file is hosted. **Download the file.**
+Click on thw following link to access the folder where the software installation file is hosted. 
+- [https://drive.google.com/drive/folders/1lsJx4HEExE0ZBoizjA9cJld3-CHBvRqo?usp=sharing](https://drive.google.com/drive/folders/1lsJx4HEExE0ZBoizjA9cJld3-CHBvRqo?usp=sharing) 
+- **Download the file.**
 <!-- ![Visit Official Website](/thonny-mac/Step_1.png) -->
 
 ### 1.1. Proceed to Step 2 if you successfully downloaded the file. Complete this step otherwise!
