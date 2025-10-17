@@ -109,6 +109,9 @@ The following installations are required on your personal computers to move forw
 
 <!-- - **Step 1**: [Install Anaconda for Mac](anaconda-mac.qmd) -->
 
+- **Step 0:** Install GWU Virtual Private Network (VPN) Client for Mac OS 12+
+  - Follow installation instructions **[here](vpn-mac.qmd)**
+
 - **Step 1:** Install Real VNC Viewer for Mac OS 12+
   - Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-MacOSX-universal.dmg)**
   - Follow installation instructions **[here](realvnc-mac.qmd)**
@@ -146,6 +149,8 @@ The following installations are required on your personal computers to move forw
 ### **Windows:**
 
 <!-- - **Step 1**: [Install Anaconda for Windows](anaconda-windows.qmd) -->
+- **Step 0:** Install GWU Virtual Private Network (VPN) Client for Windows 10+
+  - Follow installation instructions **[here](vpn-windows.qmd)**
 
 - **Step 1:** Install Real VNC Viewer for Windows 10+
   - Download the installation file **[here](/downloads/VNC-Viewer-7.12.1-Windows.exe)**
