@@ -60,15 +60,16 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>10/17</td>  
             <td>
                 <ul>
-                    <li><strong>What to expect in MAE1001</strong></li>
-                    <li><strong>Introduction to the Instruction Team</strong></li>
+                    <li><strong><a href="/documents/intro/BulusuIntroMAE1001_10172025.pdf" target="_blank">What to expect in MAE1001</strong></a></li>
+                    <li><strong><a href="/documents/intro/Instruction_Team10172025.pdf" target="_blank">Introduction to the Instruction Team</strong></a></li>
                     <li><strong><a href="/downloads/Yoo_SEASAdvising/FYAdvising_RegistrationWorkshop-Fall2025.pdf" target="_blank"> MAE Advising</strong> </a>by <a href="https://engineering.gwu.edu/jonathan-yoo" target="_blank">Jonathan Yoo</a>, Senior Academic Advisor</li> 
                     <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
                 </ul>   
             </td>                      
             <td>
                 <ul>
-                    <li><strong>Foundations of Python--The "Power Chords" Approach</strong></li>  
+                    <li><strong><a href="/documents/python/Python0_PowerChords_10172025.pdf" target="_blank">Foundations of Python--The "Power Chords" Approach</strong></a></li>  
+                    <li><a href="/documents/python/power_chord.py" target="_blank">Download demo code</li> 
                     <li>Software Installation Clinic</li>    
                 </ul>
             </td>            
@@ -87,8 +88,8 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>10/24</td>              
             <td>
                 <ul>
-                    <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
-                    <li><strong>Faculty spotlight talk</strong></li>
+                    <li><strong>MAE Student Blitz talk</strong> by <a href="standup.qmd#marc-andre-berthin" target="_blank"> Marc Andre-Berthin</a></li>
+                    <li><strong>Faculty spotlight talk</strong> by <a href="https://mae.engineering.gwu.edu/steven-shooter" target="_blank">Prof. Steven Shooter</a></li> </li>
                     <!-- <li>MAE Advising by Jonathan Yoo</li> -->
                     <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
                 </ul>    
