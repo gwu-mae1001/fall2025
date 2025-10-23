@@ -38,11 +38,11 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
 ```{=html}
 <table style="width:100%">
     <colgroup>
-        <col style="width:10%">
         <col style="width:5%">
-        <col style="width:30%">
+        <col style="width:5%">
+        <col style="width:25%">
         <col style="width:40%">
-        <col style="width:15%">
+        <col style="width:25%">
     </colgroup>
     <thead>
         <tr class="table-secondary">
@@ -69,7 +69,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>
                 <ul>
                     <li><strong><a href="/documents/python/Python0_PowerChords_10172025.pdf" target="_blank">Foundations of Python--The "Power Chords" Approach</strong></a></li>  
-                    <li><a href="/documents/python/power_chord.py" target="_blank">Download demo code</li> 
+                    <li><a href="/documents/python/power_chord.py" target="_blank">Download demo code</a></li> 
                     <li>Software Installation Clinic</li>    
                 </ul>
             </td>            
@@ -95,6 +95,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 </ul>    
             </td>                      
             <td><ul>
+                <li><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity!</strong></li> 
                 <li><strong>From Numbers to Loops: Unlocking Python’s Power</strong> [Data types and programming constructs]</li>  
                 <ul>
                     <li><a href="https://youtu.be/eSYeHlwDCNA" target="_blank"><strong>Programming Basics: Sequences, Selections, and Loops</strong></a></li>
@@ -102,10 +103,22 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                     <li><a href="https://youtu.be/wxds6MAtUQ0" target="_blank"><strong>Loops and Functions</strong></a></li>
                     <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
                 </ul>
-                <li><strong>Bias in Dice:</strong> Your first Experiment</li>
-                <li><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity!</strong></li>   
-            </td> 
-            <td>TBA</td>   
+                <li><strong>Bias in Dice:</strong> Your first Experiment</li> 
+            </td>
+            <td><ul> 
+                <strong>Assignment submissions on Blackboard:</strong>
+                    <ul>                
+                        <li><strong>1A:</strong>SolidWorks Part</li>
+                        <li><strong>1B:</strong>Bias-in-Dice results file</li>
+                    </ul>  
+                </ul>   
+                <ul>               
+                <strong>Assignment submissions on on <a href="https://bulusu-py.ead.gwu.edu/" target="_blank">bulusu-py.ead.gwu.edu</a>:</strong>             
+                    <ul>                       
+                        <li><strong>1C:</strong> Submit Python Week1 HW</li>
+                    </ul>                    
+                </ul>    
+            </td>   
         </tr>
         
         <tr class="table-active">
