@@ -108,6 +108,24 @@ Note that there are five types of callouts, including:
 - Fridays, 1:30 PM – 4:00 PM
 :::
 
+::: {.callout-tip}
+## Time & Location of Office hours
+
+**Prof. Kartik Bulusu** 
+- After class or by adhoc appointment. Reach out to schedule.
+
+**Preethi Siva Kumar (GTA)** 
+- Wednesday from 11:00 AM to 1:00 PM.
+
+**Shota Kakiuchi (ULA)** 
+- Tuesday from 2:15 PM to 3:15 PM.
+
+**Nathan Janssen (ULA) and Olivia Falcian (ULA)**: 
+- Thursday from 1:00 PM to 2:00 PM.
+
+**Note:** All office hours will be on the 3rd floor of SEH, near the couches right next to SEH 3040. If you need anything, don’t hesitate to come by during these times or reach out to us through EdStem or Blackboard to set something up if you can’t make it.-
+:::
+
 <!-- ::: {.callout-caution collapse="true"}
 ## Expand To Learn About Collapse
 
