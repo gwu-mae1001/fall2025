@@ -95,7 +95,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 </ul>    
             </td>                      
             <td><ul>
-                <li><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity!</strong></li> 
+                <li><a href="/documents/SolidWorks/Solidworks_Session1_10252025.pdf" target="_blank"><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity!</strong></a></li> 
                 <li><strong>From Numbers to Loops: Unlocking Python’s Power</strong> [Data types and programming constructs]</li>  
                 <ul>
                     <li><a href="https://youtu.be/eSYeHlwDCNA" target="_blank"><strong>Programming Basics: Sequences, Selections, and Loops</strong></a></li>
