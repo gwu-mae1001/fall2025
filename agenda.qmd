@@ -104,6 +104,9 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                     <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
                 </ul>
                 <li><strong>Bias in Dice:</strong> Your first Experiment</li> 
+                <ul>
+                    <li><a href="https://github.com/gwu-mae1001/fall2025_codes.git" target="_blank"><strong>Click on GitHub repo to download codes</strong></a></li>
+                </ul>    
             </td>
             <td><ul> 
                 <strong>Assignment submissions on Blackboard:</strong>
