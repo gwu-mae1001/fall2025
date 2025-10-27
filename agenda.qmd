@@ -95,32 +95,14 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 </ul>    
             </td>                      
             <td><ul>
-                <li><a href="/documents/SolidWorks/Solidworks_Session1_10252025.pdf" target="_blank"><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity!</strong></a></li> 
-                <li><strong><a href="/documents/python/Python1_10252025.pdf" target="_blank">From Numbers to Loops: Unlocking Python’s Power[Data types and programming constructs]</strong></a></li>  
-                <ul>
-                    <li><a href="https://youtu.be/eSYeHlwDCNA" target="_blank"><strong>Programming Basics: Sequences, Selections, and Loops</strong></a></li>
-                    <li><a href="https://youtu.be/EfJVnAHiR4s" target="_blank"><strong>Loops animation</strong></a></li>
-                    <li><a href="https://youtu.be/wxds6MAtUQ0" target="_blank"><strong>Loops and Functions</strong></a></li>
-                    <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
-                </ul>
-                <li><strong>Bias in Dice:</strong> Your first Experiment</li> 
-                <ul>
-                    <li><a href="https://github.com/gwu-mae1001/fall2025_codes.git" target="_blank"><strong>Click on GitHub repo to download codes</strong></a></li>
-                </ul>    
+                <li><a href="/documents/SolidWorks/Solidworks_Session1_10252025.pdf" target="_blank"><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity!</strong></a></li>    
             </td>
             <td><ul> 
                 <strong>Assignment submissions on Blackboard:</strong>
                     <ul>                
-                        <li><strong>1A:</strong>SolidWorks Part</li>
-                        <li><strong>1B:</strong>Bias-in-Dice results file</li>
+                        <li><strong>1A: </strong>SolidWorks Part</li>
                     </ul>  
                 </ul>   
-                <ul>               
-                <strong>Assignment submissions on on <a href="https://bulusu-py.ead.gwu.edu/" target="_blank">bulusu-py.ead.gwu.edu</a>:</strong>             
-                    <ul>                       
-                        <li><strong>1C:</strong> Submit Python Week1 HW</li>
-                    </ul>                    
-                </ul>    
             </td>   
         </tr>
         
@@ -135,14 +117,38 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             </td>          
             <td>
                 <ul>
-                    <li><strong>The Secret Life of Data in Python</strong> [Basics of File I/O and Plotting]</li>  
+                    <li><strong><a href="/documents/python/Python1_10252025.pdf" target="_blank">From Numbers to Loops: Unlocking Python’s Power[Data types and programming constructs]</strong></a></li>  
+                    <ul>
+                        <li><a href="https://youtu.be/eSYeHlwDCNA" target="_blank"><strong>Programming Basics: Sequences, Selections, and Loops</strong></a></li>
+                        <li><a href="https://youtu.be/EfJVnAHiR4s" target="_blank"><strong>Loops animation</strong></a></li>
+                        <li><a href="https://youtu.be/wxds6MAtUQ0" target="_blank"><strong>Loops and Functions</strong></a></li>
+                    <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
+                    </ul>
                     <li><strong>Transform Your Ideas: SolidWorks Assembly Essentials</strong></li>                      
-                    <li><strong>Raspberry Pi: The Single Board Computer that changed the world</strong></li>                                                    
-                </ul>    
+                    <li><strong>Bias in Dice:</strong> Your first Experiment</li> 
+                    <ul>
+                        <li><a href="https://github.com/gwu-mae1001/fall2025_codes.git" target="_blank"><strong>Click on GitHub repo to download codes</strong></a></li>
+                    </ul>                     
+                </ul> 
             </td>          
-            <td>TBA</td>  
+            <td><ul> 
+                <strong>Assignment submissions on Blackboard:</strong>
+                    <ul>                
+                        <li><strong>2A: </strong>Bias-in-Dice results file</li>
+                    </ul>  
+                </ul>   
+                <ul>               
+                <strong>Assignment submissions on on <a href="https://bulusu-py.ead.gwu.edu/" target="_blank">bulusu-py.ead.gwu.edu</a>:</strong>             
+                    <ul>                       
+                        <li><strong>2B: </strong> Submit Python Week2 HW</li>
+                    </ul>                       
+                </ul>    
+                <!-- <ul> -->
+                    <!-- <li><strong>The Secret Life of Data in Python</strong> [Basics of File I/O and Plotting]</li>   -->
+                    <!-- <li><strong>Raspberry Pi: The Single Board Computer that changed the world</strong></li>                                                     -->                    
+                <!-- </ul> -->
+            </td>   
         </tr>
-       
        <tr>
             <td>3: 11/03 to 11/09</td>
             <td>11/07</td>   
