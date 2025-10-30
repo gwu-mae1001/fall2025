@@ -129,7 +129,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                         <li><a href="https://youtu.be/wxds6MAtUQ0" target="_blank"><strong>Loops and Functions</strong></a></li>
                     <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
                     </ul>
-                    <li><strong>Transform Your Ideas: SolidWorks Assembly Essentials</strong></li>                      
+                    <li><strong>Transform Your Ideas: SolidWorks Assembly Essentials </strong><a href="/documents/SolidWorks/Solidworks_Session2_10312025.pdf" target="_blank"> Slide deck</a></li>                      
                     <li><strong>Bias in Dice:</strong> Your first Experiment</li> 
                     <ul>
                         <li><a href="https://github.com/gwu-mae1001/fall2025_codes.git" target="_blank"><strong>Click on GitHub repo to download codes</strong></a></li>
