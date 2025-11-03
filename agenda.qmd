@@ -102,12 +102,11 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 <li><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity! </strong><a href="/documents/SolidWorks/Solidworks_Session1_10252025.pdf" target="_blank"> Slide deck</a></li>  
                 <li><strong>SolidWorks Design on YouTube:</strong><a href="https://www.youtube.com/playlist?list=PL9kZfUG8vZ4HtV3WyjPcsWUKEMcOsHUja" target="_blank"> Playlist</li>  
             </td>
-            <td><ul> 
+            <td>
                 <strong>Assignment submissions on Blackboard:</strong>
                     <ul>                
                         <li><strong>1A: </strong>SolidWorks Part</li>
                     </ul>  
-                </ul>   
             </td>   
         </tr>
         
@@ -116,38 +115,45 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>10/31</td>            
             <td>
                 <ul>
+                    <li><strong>Week2-Announcements: </strong><a href="/documents/week2_intro/Week2_Announcements.pdf" target="_blank">Slide deck</a></li>                    
                     <li><strong>MAE Student Blitz talk</strong> by <a href="standup.qmd#julia-mcgillivray" target="_blank"> Julia McGillivray</a></li>
+                        <ul>
+                            <li><strong><a href="/documents/week2_intro/Week2_JuliaMcGillivray_Presentation.pdf" target="_blank">Slide deck</strong></a></li>
+                    <!-- <li>MAE Advising by Jonathan Yoo</li> -->
+                    <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
+                        </ul>  
                     <li><strong>Spotlight talk by Sumner Gubisch, PhD Candidate, MAE Department</strong></li>
+                        <ul>
+                            <li><strong><a href="/documents/week2_intro/Week2_SumnerGubisch_Presentation.pdf" target="_blank">Introduction into Additive Manufacturing</strong></a></li>
+                    <!-- <li>MAE Advising by Jonathan Yoo</li> -->
+                    <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
+                        </ul>  
                 </ul>
             </td>          
             <td>
                 <ul>
-                    <li><strong>From Numbers to Loops: Unlocking Python’s Power: </strong><a href="/documents/python/Python1_10252025.pdf" target="_blank">Slide deck [Data types and programming constructs]</a></li>  
-                    <ul>
-                        <li><a href="https://youtu.be/eSYeHlwDCNA" target="_blank"><strong>Programming Basics: Sequences, Selections, and Loops</strong></a></li>
-                        <li><a href="https://youtu.be/EfJVnAHiR4s" target="_blank"><strong>Loops animation</strong></a></li>
-                        <li><a href="https://youtu.be/wxds6MAtUQ0" target="_blank"><strong>Loops and Functions</strong></a></li>
-                    <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
-                    </ul>
                     <li><strong>Transform Your Ideas: SolidWorks Assembly Essentials </strong><a href="/documents/SolidWorks/Solidworks_Session2_10312025.pdf" target="_blank"> Slide deck</a></li>                      
                     <li><strong>Bias in Dice:</strong> Your first Experiment</li> 
                     <ul>
+                        <li><strong><a href="/documents/dice/BiasDice1_10252025.pdf" target="_blank"></strong>What is this experiment?</a></li>
+                        <li><strong><a href="/documents/week2_intro/GitHubRepo_to_OpeningAnacondaNotebook.pdf" target="_blank">Steps to run the Python code</strong></a></li>
                         <li><a href="https://github.com/gwu-mae1001/fall2025_codes.git" target="_blank"><strong>Click on GitHub repo to download codes</strong></a></li>
                     </ul>                     
                 </ul> 
             </td>          
-            <td><ul> 
-                <strong>Assignment submissions on Blackboard:</strong>
+            <td>
+                <strong>[Deadline 11/06] Assignment submissions on Blackboard:</strong>
                     <ul>                
                         <li><strong>2A: </strong>Bias-in-Dice results file</li>
-                    </ul>  
-                </ul>   
-                <ul>               
-                <strong>Assignment submissions on on <a href="https://bulusu-py.ead.gwu.edu/" target="_blank">bulusu-py.ead.gwu.edu</a>:</strong>             
+                        <li><strong>2C: </strong>Solidworks Assembly file</li>
+                        <li><strong>2D: </strong>Complete the SolidWorks Crash Course Quiz on BlackBoard</li>                        
+                    </ul>    
+              
+                <strong>[Deadline 11/06] Complete login to<a href="https://bulusu-py.ead.gwu.edu/" target="_blank"> bulusu-py.ead.gwu.edu</a>:</strong>             
                     <ul>                       
-                        <li><strong>2B: </strong> Submit Python Week2 HW</li>
+                        <li><strong>2B: </strong> You are expected to login only. We will validate it and give you a grade</li>
                     </ul>                       
-                </ul>    
+  
                 <!-- <ul> -->
                     <!-- <li><strong>The Secret Life of Data in Python</strong> [Basics of File I/O and Plotting]</li>   -->
                     <!-- <li><strong>Raspberry Pi: The Single Board Computer that changed the world</strong></li>                                                     -->                    
@@ -158,16 +164,25 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>3: 11/03 to 11/09</td>
             <td>11/07</td>   
             <td><ul>
-                    <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
-                    <li><strong>Faculty spotlight talk by Prof. Peng Wei</strong></li>
+                    <li><strong>MAE Blitz talk</strong> by <a href="standup.qmd#grace-welsh" target="_blank"> Grace Welsh</a></li>
+                    <li><strong>Faculty spotlight talk by Prof. Saniya Leblanc</strong></li>
                 <!-- <li>MAE Advising by Jonathan Yoo</li> -->
                 <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>-->
                 </ul>
             </td>                     
-            <td><ul>
+            <td>
+                <ul>
+                <li><strong>From Numbers to Loops: Unlocking Python’s Power: </strong><a href="/documents/python/Python1_10252025.pdf" target="_blank">Slide deck [Data types and programming constructs]</a></li>  
+                    <ul>
+                        <li><a href="https://youtu.be/eSYeHlwDCNA" target="_blank"><strong>Programming Basics: Sequences, Selections, and Loops</strong></a></li>
+                        <li><a href="https://youtu.be/EfJVnAHiR4s" target="_blank"><strong>Loops animation</strong></a></li>
+                        <li><a href="https://youtu.be/wxds6MAtUQ0" target="_blank"><strong>Loops and Functions</strong></a></li>
+                    <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
+                    </ul>
                 <li><strong>Pixels & Python: Ignite Your Image Processing Journey!</strong> [Basics of Image Processing]</li>  
                 <li><strong>Raspberry Pi: Camera and Face Detection</strong></li>      
-                <li><strong>Dissect a Disposable Camera</strong> Your first disassembly</li>     
+                <li><strong>Dissect a Disposable Camera</strong> Your first disassembly</li>   
+                </ul>       
             </td>            
             <td>TBA</td>
         </tr>        
@@ -194,7 +209,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td>11/21</td>            
             <td><ul>
                 <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
-                <li><strong>Faculty spotlight talk by Prof. Azar Panah</strong></li>
+                <li><strong>Faculty spotlight talk by Prof. Peng Wei</strong></li>
                 <!-- <li>MAE Advising by Jonathan Yoo</li> -->
                 <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
             </td> 
