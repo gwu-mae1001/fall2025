@@ -103,7 +103,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 <li><strong>SolidWorks Design on YouTube:</strong><a href="https://www.youtube.com/playlist?list=PL9kZfUG8vZ4HtV3WyjPcsWUKEMcOsHUja" target="_blank"> Playlist</li>  
             </td>
             <td>
-                <strong>Assignment submissions on Blackboard:</strong>
+                <strong>[Deadline 10/30] Assignment submissions on Blackboard:</strong>
                     <ul>                
                         <li><strong>1A: </strong>SolidWorks Part</li>
                     </ul>  
