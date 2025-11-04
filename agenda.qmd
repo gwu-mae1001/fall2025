@@ -100,7 +100,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             </td>                      
             <td><ul>
                 <li><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity! </strong><a href="/documents/SolidWorks/Solidworks_Session1_10252025.pdf" target="_blank"> Slide deck</a></li>  
-                <li><strong>SolidWorks Design on YouTube:</strong><a href="https://www.youtube.com/playlist?list=PL9kZfUG8vZ4HtV3WyjPcsWUKEMcOsHUja" target="_blank"> Playlist</li>  
+                <li><strong>SolidWorks Design on YouTube:</strong><a href="https://www.youtube.com/playlist?list=PL9kZfUG8vZ4HtV3WyjPcsWUKEMcOsHUja" target="_blank"> Playlist</a></li>  
             </td>
             <td>
                 <strong>[Deadline 10/30] Assignment submissions on Blackboard:</strong>
@@ -132,7 +132,8 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             </td>          
             <td>
                 <ul>
-                    <li><strong>Transform Your Ideas: SolidWorks Assembly Essentials </strong><a href="/documents/SolidWorks/Solidworks_Session2_10312025.pdf" target="_blank"> Slide deck</a></li>                      
+                    <li><strong>Transform Your Ideas: SolidWorks Assembly Essentials </strong><a href="/documents/SolidWorks/Solidworks_Session2_10312025.pdf" target="_blank"> Slide deck</a></li>  
+                    <li><strong>SolidWorks Assembly on YouTube:</strong><a href=" https://youtu.be/t8CcIzjOJIw?si=h-KVoWzBSGUjxyiX " target="_blank"> Playlist</a></li>                      
                     <li><strong>Bias in Dice:</strong> Your first Experiment</li> 
                     <ul>
                         <li><strong><a href="/documents/dice/BiasDice1_10252025.pdf" target="_blank"></strong>What is this experiment?</a></li>
