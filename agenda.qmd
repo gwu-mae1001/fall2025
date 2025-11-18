@@ -209,6 +209,11 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td><ul>
                 <li><strong>Week4-Announcements: </strong><a href="/documents/week4_intro/Week4_Announcements.pdf" target="_blank">Slide deck</a></li>                
                 <li><strong>MAE Blitz talk</strong> by <a href="standup.qmd#leonardo-borchert" target="_blank"> Leonardo Borchert</a></li>
+                        <ul>
+                            <li><strong><a href="/documents/week4_intro/Week4_College-Journey-Leonardo-Borchert.pdf" target="_blank">Slide deck</strong></a></li>
+                    <!-- <li>MAE Advising by Jonathan Yoo</li> -->
+                    <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
+                        </ul>                
                 <li><strong>Faculty spotlight talk by Prof. Matt Rau</strong></li>
                     <ul>
                         <li><strong><a href="/documents/week4_intro/2025-11-14_Rau_MAE1001.pdf" target="_blank">We Need More Engineers with PhDs! And… Opportunities for Engineering Research in Ocean Science</strong></a></li>
