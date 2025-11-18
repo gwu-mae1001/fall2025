@@ -169,7 +169,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                     <li><strong>MAE Blitz talk</strong> by <a href="standup.qmd#grace-welsh" target="_blank"> Grace Welsh</a></li>
                     <li><strong>Faculty spotlight talk</strong> by <a href="https://www.leblanclab.com/members.html" target="_blank">Prof. Saniya Leblanc</a></li> 
                         <ul>
-                            <li><strong><a href="/documents/week4_intro/Week3_LeBlanc_MAE 1001_2025.pdf" target="_blank">The Many Facets of Energy</strong></a></li>
+                            <li><strong><a href="/documents/week3_intro/Week3_LeBlanc_MAE 1001_2025.pdf" target="_blank">The Many Facets of Energy</strong></a></li>
                         </ul>                     
                 </ul>
             </td>                     
