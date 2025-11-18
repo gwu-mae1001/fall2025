@@ -93,14 +93,13 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                     <li><strong>Faculty spotlight talk</strong> by <a href="https://mae.engineering.gwu.edu/steven-shooter" target="_blank">Prof. Steven Shooter</a></li> 
                         <ul>
                             <li><strong><a href="/documents/week1_intro/Shooter_presentation_10242025.pdf" target="_blank">Capstone Design Project for Career Success</strong></a></li>
-                    <!-- <li>MAE Advising by Jonathan Yoo</li> -->
-                    <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
                         </ul>                    
                 </ul>    
             </td>                      
             <td><ul>
                 <li><strong>SolidWorks Kickstart: Your Gateway to 3D Creativity! </strong><a href="/documents/SolidWorks/Solidworks_Session1_10252025.pdf" target="_blank"> Slide deck</a></li>  
-                <li><strong>SolidWorks Design on YouTube:</strong><a href="https://www.youtube.com/playlist?list=PL9kZfUG8vZ4HtV3WyjPcsWUKEMcOsHUja" target="_blank"> Playlist</a></li>  
+                <li><strong>SolidWorks Design on YouTube:</strong><a href="https://www.youtube.com/playlist?list=PL9kZfUG8vZ4HtV3WyjPcsWUKEMcOsHUja" target="_blank"> Playlist</a></li> 
+                </ul> 
             </td>
             <td>
                 <strong>[Deadline 10/30] Assignment submissions on Blackboard:</strong>
@@ -161,29 +160,29 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 <!-- </ul> -->
             </td>   
         </tr>
+
        <tr>
             <td>3: 11/03 to 11/09</td>
             <td>11/07</td>   
             <td><ul>
                     <li><strong>Week3-Announcements: </strong><a href="/documents/week3_intro/Week3_Announcements.pdf" target="_blank">Slide deck</a></li>                
                     <li><strong>MAE Blitz talk</strong> by <a href="standup.qmd#grace-welsh" target="_blank"> Grace Welsh</a></li>
-                    <li><strong>Faculty spotlight talk by Prof. Saniya Leblanc</strong></li>
+                    <li><strong>Faculty spotlight talk</strong> by <a href="https://www.leblanclab.com/members.html" target="_blank">Prof. Saniya Leblanc</a></li> 
                         <ul>
-                            <li><strong><a href="/documents/week3_intro/Week3_LeBlanc_MAE 1001_2025.pdf" target="_blank">The Many Facets of Energy</strong></a></li>
+                            <li><strong><a href="/documents/week4_intro/Week3_LeBlanc_MAE 1001_2025.pdf" target="_blank">The Many Facets of Energy</strong></a></li>
                         </ul>                     
                 </ul>
             </td>                     
             <td>
                 <ul>  
-                <li><strong>Raspberry Pi Basics on YouTube:</strong><a href="https://youtube.com/playlist?list=PL9kZfUG8vZ4HDjTkP0YDBJS3Xe33TTSsv&si=BEZ8GPX7j9g0R1-x" target="_blank"> Playlist</a></li>                                   
-                <li><strong>Raspberry Pi Lab:</strong> <a href="/documents/RPi/MAE1001_RPi4BplusPiNoIRCamera11072025.pdf" target="_blank"> Camera and Face Detection</a> </li>                     
-                <li><strong>Dissect a Disposable Camera:</strong> <a href="/documents/Camera_Disassembly/MAE1001_Camera Dissection_Lab.pdf" target="_blank">Your first disassembly</a></li>   
-                <li><strong>From Numbers to Loops: Unlocking Python’s Power: </strong><a href="/documents/python/Python1_10252025.pdf" target="_blank">Slide deck [Data types and programming constructs]</a></li>  
+                    <li><strong>Raspberry Pi Basics on YouTube:</strong><a href="https://youtube.com/playlist?list=PL9kZfUG8vZ4HDjTkP0YDBJS3Xe33TTSsv&si=BEZ8GPX7j9g0R1-x" target="_blank"> Playlist</a></li>                                   
+                    <li><strong>Raspberry Pi Lab:</strong> <a href="/documents/RPi/MAE1001_RPi4BplusPiNoIRCamera11072025.pdf" target="_blank"> Camera and Face Detection</a> </li>                     
+                    <li><strong>Dissect a Disposable Camera:</strong> <a href="/documents/Camera_Disassembly/MAE1001_Camera Dissection_Lab.pdf" target="_blank">Your first disassembly</a></li>   
+                    <li><strong>From Numbers to Loops: Unlocking Python’s Power: </strong><a href="/documents/python/Python1_10252025.pdf" target="_blank">Slide deck [Data types and programming constructs]</a></li>  
                     <ul>
                         <li><a href="https://youtu.be/eSYeHlwDCNA" target="_blank"><strong>Sequences, Selections, and Loops</strong></a></li>
                         <li><a href="https://youtu.be/EfJVnAHiR4s" target="_blank"><strong>Loops animation</strong></a></li>
                         <li><a href="https://youtu.be/wxds6MAtUQ0" target="_blank"><strong>Loops and Functions</strong></a></li>
-                    <!-- <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> -->
                     </ul>               
                 </ul>       
             </td>            
@@ -193,33 +192,44 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                         <li><strong>In-Class Lab 3B:</strong> Camera Dissection Lab</li>
                         <li><strong>In-Class Lab 3C:</strong> Raspberry Pi Selfie Upload</li>                                    
                     </ul>    
-                <strong>[Deadline 11/13] Complete on<a href="https://bulusu-py.ead.gwu.edu/" target="_blank"> bulusu-py.ead.gwu.edu</a>:</strong>             
+                <strong>[Deadline 11/13] Complete on<a href="https://bulusu-py.ead.gwu.edu/" target="_blank"> bulusu-py.ead.gwu.edu</a></strong>             
                     <ul>                       
-                        <li><strong>3D:</strong> Complete HW1 on bulusu-py. There is no need to submit it anywhere.</li>
+                        <li><strong>Assignment 3D:</strong> Complete HW1 on bulusu-py. There is no need to submit it anywhere.</li>
                     </ul>                       
                 <!-- <ul> -->
                     <!-- <li><strong>The Secret Life of Data in Python</strong> [Basics of File I/O and Plotting]</li>   -->
                     <!-- <li><strong>Raspberry Pi: The Single Board Computer that changed the world</strong></li>                                                     -->                    
                 <!-- </ul> -->
-                </td>
+            </td>
         </tr>        
         
         <tr class="table-active">
             <td>4: 11/10 to 11/16</td>
             <td>11/14</td>  
             <td><ul>
-                <li><strong>Blitz talk</strong> by MAE Student with Q &amp; A </li>
+                <li><strong>Week4-Announcements: </strong><a href="/documents/week4_intro/Week4_Announcements.pdf" target="_blank">Slide deck</a></li>                
+                <li><strong>MAE Blitz talk</strong> by <a href="standup.qmd#leonardo-borchert" target="_blank"> Leonardo Borchert</a></li>
                 <li><strong>Faculty spotlight talk by Prof. Matt Rau</strong></li>
-                <!-- <li>MAE Advising by Jonathan Yoo</li> -->
-                <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
+                    <ul>
+                        <li><strong><a href="/documents/week4_intro/2025-11-14_Rau_MAE1001.pdf" target="_blank">We Need More Engineers with PhDs! And… Opportunities for Engineering Research in Ocean Science</strong></a></li>
+                    </ul>  
+                </ul>    
             </td> 
             <td><ul>
-                <li><strong>Pixels & Python: Ignite Your Image Processing Journey!</strong> [Basics of Image Processing]</li>  
-                <li><strong>Python Pandas Party: Turning Data into Decisions!</strong> [Basics of datafranmes]</li>  
-                <li><strong>Raspberry Pi: Actuators</strong></li>  
-                <li><strong>Dissect a Cordless Screwdriver</strong> Your second disassembly</li>                
+                <li><strong>Raspberry Pi Lab: </strong> <a href="/documents/RPi/MAE1001_RPi4BplusSenseHat11142025.pdf" target="_blank"> How SenseHat is working on the International Space Station</a> </li>                       
+                    <li><strong>Python Pandas Party: Turning Data into Decisions! </strong><a href="/documents/python/Python2_11142025.pdf" target="_blank">Slide deck </a></li>                 
+                <!-- <li><strong>Python Pandas Party: Turning Data into Decisions!</strong> [Basics of datafranmes]</li>   -->
+                <!-- <li><strong>Raspberry Pi: SenseHat</strong></li>   -->
+                <!-- <li><strong>Dissect a Cordless Screwdriver</strong> Your second disassembly</li>                 -->
+                </ul>                
             </td>            
-            <td>TBA</td>
+            <td><strong>[Deadline 11/20] Assignment submissions on Blackboard:</strong>
+                <ul>                
+                    <li><strong>In-Class Lab 4A:</strong> Bias in Dice Experiment-Trial 3</li>
+                    <li><strong>In-Class Lab 4B:</strong> RPi Sense Hat Plot</li>
+                    <li><strong>Assignment 4C: Week 3 Quiz</strong> on Guest Lectures, Raspberry Pi and Python</li>
+                </ul> 
+            </td>    
         </tr>             
         
         <tr>
@@ -232,9 +242,13 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                 <!-- <li>Prof. Plesniak or Prof. Shen's talk</li>                                 -->
             </td> 
             <td><ul>
-                <li><strong>Python Pandas Party: Turning Data into Decisions!</strong> [Basics of datafranmes]</li>  
-                <li><strong>Polished Documents, Simple Syntax: Your Guide to LaTeX and Markdown</strong> And Your First Scientific Document</li>     
-                <li><strong>Get Connected: Collaborate and Create with GitHub!</strong> Your First GitHub Repo</li>                      
+                    <li><strong>Raspberry Pi: Actuators</strong></li>  
+                    <li><strong>Dissect a Cordless Screwdriver</strong> Your second disassembly</li>                                
+                    <!-- <li><strong>Python Pandas Party: Turning Data into Decisions!</strong> [Basics of datafranmes]</li>  -->
+                    <li><strong>Pixels & Python: Ignite Your Image Processing Journey!</strong> [Basics of Image Processing]</li>  
+                    <li><strong>Polished Documents, Simple Syntax: Your Guide to LaTeX and Markdown</strong> And Your First Scientific Document</li>     
+                    <li><strong>Get Connected: Collaborate and Create with GitHub!</strong> Your First GitHub Repo</li>        
+                </ul>
             </td>            
             <td>TBA</td>
         </tr>
