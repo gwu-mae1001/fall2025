@@ -276,7 +276,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
         <tr>
             <td>6: 12/01 to 12/07</td>
             <td>12/05</td>            
-            <td colspan="3"><strong>Raising MAE-Revs Higher: A Mechanical & Aerospace Journey</strong> [Field trip to MAE Department]</td>        
+            <td colspan="3"><strong>Raising MAE-Revs Higher: A Mechanical & Aerospace Journey</strong> <a href="https://tinyurl.com/5n8hnhk8" target="_blank">[Graded questionnaire about the Field trip to the MAE Department]  </a></li>         </td>        
         </tr>   
         
         <tr>            
@@ -309,7 +309,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
         <tr class="table-info">
             <td style="color: red;">12/12 to 12/18</td>
             <td></td>             
-            <td colspan="4" style="color: red;" style="text-align: center;">Final Exams</td>
+            <td colspan="4" style="color: red;" style="text-align: center;">Final Exam week <strong>[There is no Final exam for MAE 1001]</strong></td>
         </tr>           
 
         <!-- <tr class="table-active">
