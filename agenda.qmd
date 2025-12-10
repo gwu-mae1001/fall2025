@@ -276,7 +276,12 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
         <tr>
             <td>6: 12/01 to 12/07</td>
             <td>12/05</td>            
-            <td colspan="3"><strong>Raising MAE-Revs Higher: A Mechanical & Aerospace Journey</strong> <a href="https://tinyurl.com/5n8hnhk8" target="_blank">[Graded questionnaire about the Field trip to the MAE Department]  </a></li>         </td>        
+            <td colspan="3">
+                <ul>                 
+                    <li><strong>Week6-Announcements: </strong><a href="/documents/week6_intro/Week6_Announcements.pdf" target="_blank">Slide deck</a></li>                 
+                    <li><strong>Raising MAE-Revs Higher: A Mechanical & Aerospace Journey</strong> <a href="https://tinyurl.com/5n8hnhk8" target="_blank">[Graded questionnaire about the Field trip to the MAE Department]  </a></li>
+                </ul>                 
+            </td>        
         </tr>   
         
         <tr>            
