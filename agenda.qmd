@@ -151,7 +151,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
               
                 <strong>[Deadline 11/06] Complete login to<a href="https://bulusu-py.ead.gwu.edu/" target="_blank"> bulusu-py.ead.gwu.edu</a>:</strong>             
                     <ul>                       
-                        <li><strong>2B: </strong> You are expected to login only. We will validate it and give you a grade</li>
+                        <li><strong>2B: </strong> You are expected to login only.</li>
                     </ul>                       
   
                 <!-- <ul> -->
@@ -192,10 +192,7 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
                         <li><strong>In-Class Lab 3B:</strong> Camera Dissection Lab</li>
                         <li><strong>In-Class Lab 3C:</strong> Raspberry Pi Selfie Upload</li>                                    
                     </ul>    
-                <strong>[Deadline 11/13] Complete on<a href="https://bulusu-py.ead.gwu.edu/" target="_blank"> bulusu-py.ead.gwu.edu</a></strong>             
-                    <ul>                       
-                        <li><strong>Assignment 3D:</strong> Complete HW1 on bulusu-py. There is no need to submit it anywhere.</li>
-                    </ul>                       
+                              
                 <!-- <ul> -->
                     <!-- <li><strong>The Secret Life of Data in Python</strong> [Basics of File I/O and Plotting]</li>   -->
                     <!-- <li><strong>Raspberry Pi: The Single Board Computer that changed the world</strong></li>                                                     -->                    
@@ -229,8 +226,9 @@ Bulusu, Kartik V. (2025, October 17). Introduction to Mechanical and Aerospace E
             <td><strong>[Deadline 11/20] Assignment submissions on Blackboard:</strong>
                 <ul>                
                     <li><strong>In-Class Lab 4A:</strong> Bias in Dice Experiment-Trial 3</li>
-                    <li><strong>In-Class Lab 4B:</strong> RPi Sense Hat Plot</li>
-                    <li><strong>Assignment 4C: Week 3 Quiz</strong> on Guest Lectures, Raspberry Pi and Python</li>
+                    <li><strong>In-Class Lab 4B:</strong> RPi Sense Hat Plot</li>            
+                    <li><strong>In-Class Lab 4C:</strong> Complete on<a href="https://bulusu-py.ead.gwu.edu/" target="_blank"> bulusu-py.ead.gwu.edu</a></strong> Python HW1 on bulusu-py. There is no need to submit it anywhere.</li>                      
+                    <li><strong>Assignment 4D: Week 3 Quiz</strong> on Guest Lectures, Raspberry Pi and Python</li>
                 </ul> 
             </td>    
         </tr>             
